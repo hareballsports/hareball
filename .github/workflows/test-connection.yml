@@ -1,0 +1,18 @@
+name: Test connection
+
+on:
+  workflow_dispatch:   # adds the "Run workflow" button
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install gspread
+      - run: python scripts/test_connection.py
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
