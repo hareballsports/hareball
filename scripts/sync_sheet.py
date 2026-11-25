@@ -59,6 +59,29 @@ def sport_tables(key, sport, today):
     if sport.get("box_scores"):
         tables[f"{L} Team Box {cur_name}"] = (storage.BOX_FIELDS, storage.load_box(key, cur))
 
+    # Conference standings and projected bracket, current season
+    if fid:
+        conf_name = sport["focus_conference_name"]
+        rows = storage.read_rows(storage.standings_path(key, cur, fid, "standings"))
+        header = ["position", "team", "conf_w", "conf_l", "conf_pct", "games_back", "overall",
+                  "vs_d1", "seed_note", "tiebreaker"]
+        tables[f"{L} {conf_name} Standings"] = (header, rows)
+        bracket = storage.read_rows(storage.standings_path(key, cur, fid, "bracket"))
+        if bracket:
+            tables[f"{L} {conf_name} Bracket"] = (storage.BRACKET_FIELDS, bracket)
+
+    # Official seed checks (seasons where we know the real answer)
+    checks = storage.load_json_run("standings_checks.json") or {}
+    check_rows = []
+    for c in checks.values():
+        if c["sport"] != key:
+            continue
+        check_rows.append([f"{c['label']}: {c['matches']} of {c['total']} seeds match", "", "", "", "", ""])
+        check_rows += c["rows"]
+        check_rows.append(["", "", "", "", "", ""])
+    if check_rows:
+        tables[f"{L} Standings Check"] = (["seed", "official", "ours", "match", "conf record", "tiebreaker"], check_rows)
+
     return tables
 
 
@@ -105,6 +128,14 @@ def main():
         sheets.ensure_table(sheet, "Settings", ["sport", "setting", "value", "notes"], starter)
         sheets.ensure_table(sheet, "Overrides", ["sport", "game_id", "field", "value", "notes"])
         sheets.ensure_table(sheet, "Posting", ["sport", "date", "graphic", "file", "status", "notes"])
+        for key, sport in members:
+            cur = seasons.current_season(sport, now.date())
+            fid = sport.get("focus_conference_id")
+            standing_rows = storage.read_rows(storage.standings_path(key, cur, fid, "standings")) if fid else []
+            starter_net = [[seasons.label(sport, cur), r["team_id"], r["team"], "", ""]
+                           for r in sorted(standing_rows, key=lambda r: r["team"])]
+            sheets.ensure_table(sheet, f"{sport['label']} NET Ranks",
+                                ["season", "team_id", "team", "net_rank", "notes"], starter_net)
 
         # Status tab: always refreshed, so you can see the job is alive
         status = [["Sheet last updated", now.strftime("%Y-%m-%d %I:%M %p %Z")]]
@@ -118,6 +149,11 @@ def main():
                 status.append([f"{sport['label']} run type", info["run_type"]])
                 status.append([f"{sport['label']} anything changed", "TRUE" if info["changed"] else "FALSE"])
                 status += info["report"]
+            checks = storage.load_json_run("standings_checks.json") or {}
+            for c in checks.values():
+                if c["sport"] in dict(members):
+                    status.append([f"{config.SPORTS[c['sport']]['label']} {c['label']} official seeds matched",
+                                   f"{c['matches']} of {c['total']}"])
         else:
             status.append(["Data step", "did not finish this run; see the run log on GitHub"])
         sheets.write_values(sheet, "Status", sheets.to_values(["item", "value"], status))

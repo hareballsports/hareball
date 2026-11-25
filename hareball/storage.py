@@ -32,7 +32,7 @@ TEAM_FIELDS = [
     "color", "alt_color",
 ]
 
-BOOL_FIELDS = {"completed", "on_schedule", "neutral_site", "conference_game", "home_d1", "away_d1"}
+BOOL_FIELDS = {"completed", "on_schedule", "neutral_site", "conference_game", "home_d1", "away_d1", "unresolved"}
 
 
 def sport_dir(sport_key):
@@ -114,4 +114,36 @@ def save_run_summary(summary):
 
 def load_run_summary():
     path = RUN_DIR / "summary.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
+
+
+# --- standings files (rebuilt from games each run)
+STANDINGS_FIELDS = [
+    "position", "seed_note", "team_id", "team", "conf_w", "conf_l", "conf_pct", "games_back",
+    "overall", "vs_d1", "tiebreaker", "unresolved",
+]
+HISTORY_FIELDS = ["date", "position", "team_id", "team", "conf_w", "conf_l"]
+BRACKET_FIELDS = ["game", "round", "top_seed", "top_team", "bottom_seed", "bottom_team"]
+
+
+def standings_path(sport_key, season, conf_id, kind):
+    """kind: 'standings', 'standings_history' or 'bracket'."""
+    return sport_dir(sport_key) / str(season) / f"{kind}_conf{conf_id}.csv"
+
+
+def write_rows(path, fields, rows):
+    _write_csv(path, fields, rows)
+
+
+def read_rows(path):
+    return _read_csv(path)
+
+
+# --- inputs typed into the Google Sheet, copied into the repository each run
+INPUTS_DIR = DATA_ROOT / "inputs"
+
+
+def load_json_run(name):
+    """Read a file another step of this run left in run/ (or None)."""
+    path = RUN_DIR / name
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None

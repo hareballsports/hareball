@@ -254,6 +254,9 @@ def main():
             run_type = "daily schedule refresh"
         else:
             run_type = "hourly check" + (" (manual)" if manual else "")
+        missing = [s for s in seasons.kept_seasons(sport, today_local) if not storage.load_games(key, s)]
+        if missing and not full:
+            run_type += " + first download of " + ", ".join(seasons.label(sport, s) for s in missing)
         print(f"[{sport['label']}] {run_type}, current season {seasons.label(sport, seasons.current_season(sport, today_local))}")
         changed, report = update_sport(key, sport, full=full, schedule_refresh=schedule_refresh,
                                        today_espn=today_espn, today_local=today_local)
