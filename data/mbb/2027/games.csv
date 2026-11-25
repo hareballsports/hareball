@@ -1379,37 +1379,37 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401926835,2026-11-25,12:00 PM,Final,True,True,Regular,False,False,2,2619,Stony Brook,10,True,69,2815,Lindenwood,20,True,63,Stony Brook Arena,
 2027,401919007,2026-11-25,12:30 PM,Final,True,True,Regular,True,False,2,2166,Davidson,3,True,74,2655,Tulane,62,True,47,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
 2027,401911311,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,225,Brown,12,True,98,353,Johnson & Wales,,False,52,Pizzitola Sports Center,
-2027,401917967,2026-11-25,1:00 PM,In Progress,False,True,Regular,False,False,,2571,South Dakota State,49,True,,2000,Abilene Christian,30,True,,First Bank & Trust Arena,
+2027,401917967,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,2571,South Dakota State,49,True,95,2000,Abilene Christian,30,True,101,First Bank & Trust Arena,
 2027,401920868,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,2885,NJIT,1,True,70,2363,Manhattan,13,True,81,Joel & Diane Bloom Wellness and Events Center,
-2027,401921669,2026-11-25,1:00 PM,In Progress,False,True,Regular,True,False,,9,Arizona State,8,True,,99,LSU,23,True,,Acrisure Arena,Acrisure Series
+2027,401921669,2026-11-25,1:00 PM,Final,True,True,Regular,True,False,4,9,Arizona State,8,True,92,99,LSU,23,True,94,Acrisure Arena,Acrisure Series
 2027,401922223,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,2454,North Florida,46,True,100,2683,Warner,,False,68,UNF Arena,
 2027,401924705,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,171,Columbia,12,True,65,2612,Saint Peter's,13,True,44,Levien Gymnasium,
 2027,401926207,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,2717,Western Carolina,24,True,100,2410,Montreat,,False,42,Ramsey Center,
 2027,401928850,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,2711,Western Michigan,14,True,104,126822,Grace Christian,,False,52,University Arena (MI),
 2027,401929406,2026-11-25,1:00 PM,Final,True,True,Regular,False,False,2,233,South Dakota,49,True,86,2029,Arkansas-Pine Bluff,26,True,50,Sanford Coyote Sports Center,
-2027,401921715,2026-11-25,1:30 PM,In Progress,False,True,Regular,True,False,,12,Arizona,8,True,,145,Ole Miss,23,True,,Lahaina Civic Center,Southwest Maui Invitational - Championship
-2027,401919042,2026-11-25,2:00 PM,Halftime,False,True,Regular,False,False,,197,Oklahoma State,8,True,,2296,Jackson State,26,True,,Gallagher-Iba Arena,
-2027,401920548,2026-11-25,2:00 PM,Halftime,False,True,Regular,True,False,,155,North Dakota,49,True,,2545,SE Louisiana,25,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Mayan Division - Championship
-2027,401928836,2026-11-25,2:00 PM,In Progress,False,True,Regular,True,False,,2026,App State,27,True,,2006,Akron,14,True,,State Farm Field House,ESPN Events Invitational - Adventure Bracket
+2027,401921715,2026-11-25,1:30 PM,Final,True,True,Regular,True,False,2,12,Arizona,8,True,84,145,Ole Miss,23,True,73,Lahaina Civic Center,Southwest Maui Invitational - Championship
+2027,401919042,2026-11-25,2:00 PM,Final,True,True,Regular,False,False,2,197,Oklahoma State,8,True,93,2296,Jackson State,26,True,58,Gallagher-Iba Arena,
+2027,401920548,2026-11-25,2:00 PM,In Progress,False,True,Regular,True,False,,155,North Dakota,49,True,,2545,SE Louisiana,25,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Mayan Division - Championship
+2027,401928836,2026-11-25,2:00 PM,Final,True,True,Regular,True,False,2,2026,App State,27,True,76,2006,Akron,14,True,66,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401928359,2026-11-25,2:30 PM,In Progress,False,True,Regular,False,False,,2229,Florida International,11,True,,2032,Arkansas State,27,True,,Ocean Bank Convocation Center,Florida International MTE
 2027,401920858,2026-11-25,3:00 PM,In Progress,False,True,Regular,False,False,,276,Marshall,27,True,,2504,Prairie View A&M,26,True,,Cam Henderson Center,
 2027,401921703,2026-11-25,3:00 PM,In Progress,False,True,Regular,True,False,,526,Florida Gulf Coast,46,True,,2247,Georgia State,27,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
 2027,401924737,2026-11-25,3:00 PM,In Progress,False,True,Regular,True,False,,2335,Liberty,11,True,,163,Princeton,12,True,,Trask Coliseum,Live Oak Bank Holiday Classic
-2027,401925050,2026-11-25,3:00 PM,Scheduled,False,True,Regular,False,False,,2443,LSU New Orleans,25,True,,2755,Grambling,26,True,,Lakefront Arena,
+2027,401925050,2026-11-25,3:00 PM,In Progress,False,True,Regular,False,False,,2443,LSU New Orleans,25,True,,2755,Grambling,26,True,,Lakefront Arena,
 2027,401925943,2026-11-25,3:00 PM,In Progress,False,True,Regular,False,False,,3101,Utah Tech,5,True,,3246,Bethesda,,False,,Burns Arena,
-2027,401920809,2026-11-25,3:13 PM,Scheduled,False,True,Regular,True,False,,2752,Xavier,4,True,,245,Texas A&M,23,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
-2027,401921670,2026-11-25,3:30 PM,Scheduled,False,True,Regular,True,False,,30,USC,7,True,,2579,South Carolina,23,True,,Acrisure Arena,Acrisure Series
-2027,401917182,2026-11-25,4:00 PM,Scheduled,False,True,Regular,True,False,,213,Penn State,7,True,,235,Memphis,62,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
-2027,401920237,2026-11-25,4:00 PM,Scheduled,False,True,Regular,False,False,,159,Dartmouth,12,True,,107,Holy Cross,22,True,,Leede Arena,
-2027,401925688,2026-11-25,4:00 PM,Scheduled,False,True,Regular,True,False,,326,Texas State,21,True,,2016,Alcorn State,26,True,,Thomas Assembly Center,
-2027,401925917,2026-11-25,4:00 PM,Scheduled,False,True,Regular,False,False,,27,UC Riverside,9,True,,2502,Portland State,5,True,,SRC Arena,
-2027,401926065,2026-11-25,4:00 PM,Scheduled,False,True,Regular,False,False,,158,Nebraska,7,True,,2582,Southern,26,True,,Pinnacle Bank Arena,
+2027,401920809,2026-11-25,3:13 PM,Halftime,False,True,Regular,True,False,,2752,Xavier,4,True,,245,Texas A&M,23,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
+2027,401920237,2026-11-25,4:00 PM,In Progress,False,True,Regular,False,False,,159,Dartmouth,12,True,,107,Holy Cross,22,True,,Leede Arena,
+2027,401925688,2026-11-25,4:00 PM,In Progress,False,True,Regular,True,False,,326,Texas State,21,True,,2016,Alcorn State,26,True,,Thomas Assembly Center,
+2027,401925917,2026-11-25,4:00 PM,In Progress,False,True,Regular,False,False,,27,UC Riverside,9,True,,2502,Portland State,5,True,,SRC Arena,
+2027,401926065,2026-11-25,4:00 PM,In Progress,False,True,Regular,False,False,,158,Nebraska,7,True,,2582,Southern,26,True,,Pinnacle Bank Arena,
+2027,401921670,2026-11-25,4:17 PM,Scheduled,False,True,Regular,True,False,,30,USC,7,True,,2579,South Carolina,23,True,,Acrisure Arena,Acrisure Series
 2027,401921716,2026-11-25,4:30 PM,Scheduled,False,True,Regular,True,False,,2507,Providence,4,True,,252,BYU,8,True,,Lahaina Civic Center,Southwest Maui Invitational - Third Place Game
 2027,401909720,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,183,Syracuse,2,True,,399,UAlbany,1,True,,JMA Wireless Dome,
 2027,401911241,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,257,Richmond,3,True,,2065,Bethune-Cookman,26,True,,Robins Center,
 2027,401920299,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,2692,Weber State,5,True,,2463,Cal State Northridge,9,True,,Dee Events Center,
 2027,401920549,2026-11-25,5:00 PM,Scheduled,False,True,Regular,True,False,,232,Charleston,10,True,,338,Kennesaw State,11,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Consolation
 2027,401922253,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,2466,Northwestern State,25,True,,2697,West Florida,46,True,,Prather Coliseum,
+2027,401917182,2026-11-25,5:35 PM,Scheduled,False,True,Regular,True,False,,213,Penn State,7,True,,235,Memphis,62,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401909568,2026-11-25,6:00 PM,Scheduled,False,True,Regular,True,False,,150,Duke,2,True,,41,UConn,4,True,,T-Mobile Arena,
 2027,401911028,2026-11-25,6:00 PM,Scheduled,False,True,Regular,False,False,,275,Wisconsin,7,True,,111,Northeastern,10,True,,Kohl Center,
 2027,401918960,2026-11-25,6:00 PM,Scheduled,False,True,Regular,False,False,,152,NC State,2,True,,2450,Norfolk State,16,True,,Lenovo Center,
