@@ -1361,9 +1361,9 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401927398,2026-11-24,9:00 AM,Final,True,True,Regular,True,False,3,179,St. Bonaventure,3,True,72,2750,Wright State,45,True,70,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401906762,2026-11-24,9:05 PM,Final,True,True,Regular,True,False,2,333,Alabama,23,True,63,239,Baylor,8,True,68,T-Mobile Arena,Players Era 16
 2027,401921712,2026-11-24,9:30 PM,Final,True,True,Regular,True,False,2,36,Colorado State,21,True,81,2670,VCU,3,True,84,Lahaina Civic Center,Southwest Maui Invitational
-2027,401911201,2026-11-25,10:00 AM,Scheduled,False,True,Regular,False,False,,2230,Fordham,3,True,,2384,Mercy,,False,,Rose Hill Gym,
-2027,401921702,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,2429,Charlotte,62,True,,2460,Northern Iowa,18,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
-2027,401928845,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,195,Ohio,14,True,,242,Rice,62,True,,The Reef,Jacksonville Classic
+2027,401911201,2026-11-25,10:00 AM,In Progress,False,True,Regular,False,False,,2230,Fordham,3,True,,2384,Mercy,,False,,Rose Hill Gym,
+2027,401921702,2026-11-25,10:00 AM,In Progress,False,True,Regular,True,False,,2429,Charlotte,62,True,,2460,Northern Iowa,18,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
+2027,401928845,2026-11-25,10:00 AM,In Progress,False,True,Regular,True,False,,195,Ohio,14,True,,242,Rice,62,True,,The Reef,Jacksonville Classic
 2027,401921672,2026-11-25,10:59 PM,Scheduled,False,True,Regular,True,False,,139,Saint Louis,3,True,,24,Stanford,2,True,,Acrisure Arena,Acrisure Series - Third Place Game
 2027,401929005,2026-11-25,10:59 PM,Scheduled,False,True,Regular,False,False,,62,Hawai'i,44,True,,2916,Incarnate Word,25,True,,Stan Sheriff Center,
 2027,401919762,2026-11-25,11:00 AM,Scheduled,False,True,Regular,False,False,,161,Fairleigh Dickinson,19,True,,130189,Vermont State Randolph,,False,,Bogota Savings Bank Center,
@@ -1428,7 +1428,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401924897,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,167,New Mexico,44,True,,2400,Mississippi Valley State,26,True,,The Pit,
 2027,401925880,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,147,Montana State,5,True,,3218,Northwest Indian,,False,,Worthington Arena,
 2027,401921671,2026-11-25,8:30 PM,Scheduled,False,True,Regular,True,False,,38,Colorado,8,True,,2253,Grand Canyon,44,True,,Acrisure Arena,Acrisure Series - Championship Game
-2027,401927399,2026-11-25,9:00 AM,Scheduled,False,True,Regular,True,False,,2057,Belmont,18,True,,179,St. Bonaventure,3,True,,State Farm Field House,ESPN Events Invitational - Adventure Bracket
+2027,401927399,2026-11-25,9:00 AM,In Progress,False,True,Regular,True,False,,2057,Belmont,18,True,,179,St. Bonaventure,3,True,,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401921713,2026-11-25,9:00 PM,Scheduled,False,True,Regular,True,False,,2670,VCU,3,True,,264,Washington,7,True,,Lahaina Civic Center,Southwest Maui Invitational - Fifth Place Game
 2027,401917544,2026-11-25,9:30 PM,Scheduled,False,True,Regular,True,False,,55,Jacksonville State,11,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
 2027,401929281,2026-11-26,10:00 AM,Scheduled,False,True,Regular,True,False,,2132,Cincinnati,8,True,,61,Georgia,23,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
