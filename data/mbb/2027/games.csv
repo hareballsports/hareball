@@ -1276,10 +1276,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401918057,2026-11-23,9:00 PM,Final,True,True,Regular,False,False,2,25,California,2,True,96,2011,Alabama State,26,True,54,Haas Pavilion,
 2027,401920721,2026-11-23,9:00 PM,Final,True,True,Regular,False,False,2,2439,UNLV,44,True,82,331,Eastern Washington,5,True,61,Thomas & Mack Center,
 2027,401928791,2026-11-24,10:00 AM,Final,True,True,Regular,True,False,2,166,New Mexico State,11,True,68,195,Ohio,14,True,69,The Reef,Jacksonville Classic
-2027,401909763,2026-11-24,10:59 PM,Scheduled,False,True,Regular,True,False,,24,Stanford,2,True,,38,Colorado,8,True,,Acrisure Arena,Acrisure Series
+2027,401915943,2026-11-24,10:18 PM,Halftime,False,True,Regular,True,False,,2599,St. John's,4,True,,2483,Oregon,7,True,,Michelob ULTRA Arena,Players Era 16
 2027,401920819,2026-11-24,11:30 AM,Final,True,True,Regular,True,False,2,2458,Northern Colorado,5,True,60,2545,SE Louisiana,25,True,70,Hard Rock Hotel Riviera Maya,Cancun Challenge - Mayan Division
 2027,401928835,2026-11-24,11:30 AM,Final,True,True,Regular,True,False,2,2006,Akron,14,True,87,2057,Belmont,18,True,64,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401909800,2026-11-24,11:30 PM,Scheduled,False,True,Regular,True,False,,2306,Kansas State,8,True,,2250,Gonzaga,21,True,,T-Mobile Arena,Players Era 16
+2027,401909763,2026-11-24,11:40 PM,Scheduled,False,True,Regular,True,False,,24,Stanford,2,True,,38,Colorado,8,True,,Acrisure Arena,Acrisure Series
 2027,401919850,2026-11-24,12:00 PM,Final,True,True,Regular,False,False,2,284,Stonehill,19,True,112,130189,Vermont State Randolph,,False,64,Merkert Gymnasium,
 2027,401928358,2026-11-24,12:00 PM,Final,True,True,Regular,False,False,2,2229,Florida International,11,True,81,253,Southern Utah,5,True,66,Ocean Bank Convocation Center,Florida International MTE
 2027,401906806,2026-11-24,12:30 PM,Final,True,True,Regular,True,False,2,221,Pittsburgh,2,True,79,201,Oklahoma,23,True,68,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
@@ -1347,21 +1348,20 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401929359,2026-11-24,7:00 PM,Final,True,True,Regular,False,False,2,250,UT Arlington,30,True,80,198,Oral Roberts,49,True,84,College Park Center,
 2027,401929380,2026-11-24,7:00 PM,Final,True,True,Regular,False,False,2,2031,Little Rock,30,True,82,2027,Arkansas Baptist,,False,47,Jack Stephens Center,
 2027,401929421,2026-11-24,7:00 PM,Final,True,True,Regular,False,False,2,6,South Alabama,27,True,74,50,Florida A&M,26,True,49,Mitchell Center,
-2027,401924723,2026-11-24,7:30 PM,End of Period,False,True,Regular,False,False,,172,Cornell,12,True,,2083,Bucknell,22,True,,Newman Arena,
-2027,401929456,2026-11-24,7:30 PM,In Progress,False,True,Regular,False,False,,309,Louisiana,27,True,,2347,Louisiana Christian,,False,,Cajundome,
-2027,401915942,2026-11-24,7:37 PM,In Progress,False,True,Regular,True,False,,97,Louisville,2,True,,2641,Texas Tech,8,True,,Michelob ULTRA Arena,Players Era 16
-2027,401920414,2026-11-24,7:45 PM,In Progress,False,True,Regular,True,False,,2272,High Point,6,True,,2184,Duquesne,3,True,,Ocean Center,Sunshine Slam
-2027,401909699,2026-11-24,8:00 PM,In Progress,False,True,Regular,False,False,,52,Florida State,2,True,,2427,UNC Asheville,6,True,,Donald L. Tucker Center,
-2027,401911535,2026-11-24,8:00 PM,In Progress,False,True,Regular,True,False,,232,Charleston,10,True,,2638,UTEP,44,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division
-2027,401921817,2026-11-24,8:00 PM,In Progress,False,True,Regular,False,False,,142,Missouri,23,True,,339,Evansville,18,True,,Mizzou Arena,
-2027,401922023,2026-11-24,8:00 PM,In Progress,False,True,Regular,False,False,,68,Boise State,21,True,,304,Idaho State,5,True,,ExtraMile Arena,
-2027,401926184,2026-11-24,8:00 PM,In Progress,False,True,Regular,False,False,,2540,UC Santa Barbara,9,True,,2430,UNC Greensboro,24,True,,The Thunderdome,
-2027,401928796,2026-11-24,8:00 PM,In Progress,False,True,Regular,False,False,,265,Washington State,21,True,,2534,Sam Houston,11,True,,Beasley Coliseum,
+2027,401924723,2026-11-24,7:30 PM,Final,True,True,Regular,False,False,2,172,Cornell,12,True,92,2083,Bucknell,22,True,71,Newman Arena,
+2027,401929456,2026-11-24,7:30 PM,Final,True,True,Regular,False,False,2,309,Louisiana,27,True,91,2347,Louisiana Christian,,False,24,Cajundome,
+2027,401915942,2026-11-24,7:37 PM,Final,True,True,Regular,True,False,2,97,Louisville,2,True,72,2641,Texas Tech,8,True,64,Michelob ULTRA Arena,Players Era 16
+2027,401920414,2026-11-24,7:45 PM,Final,True,True,Regular,True,False,2,2272,High Point,6,True,75,2184,Duquesne,3,True,70,Ocean Center,Sunshine Slam
+2027,401909699,2026-11-24,8:00 PM,Final,True,True,Regular,False,False,2,52,Florida State,2,True,97,2427,UNC Asheville,6,True,61,Donald L. Tucker Center,
+2027,401911535,2026-11-24,8:00 PM,Final,True,True,Regular,True,False,2,232,Charleston,10,True,69,2638,UTEP,44,True,80,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division
+2027,401921817,2026-11-24,8:00 PM,Final,True,True,Regular,False,False,2,142,Missouri,23,True,78,339,Evansville,18,True,67,Mizzou Arena,
+2027,401922023,2026-11-24,8:00 PM,Final,True,True,Regular,False,False,2,68,Boise State,21,True,88,304,Idaho State,5,True,71,ExtraMile Arena,
+2027,401926184,2026-11-24,8:00 PM,Final,True,True,Regular,False,False,2,2540,UC Santa Barbara,9,True,85,2430,UNC Greensboro,24,True,65,The Thunderdome,
+2027,401928796,2026-11-24,8:00 PM,Final,True,True,Regular,False,False,2,265,Washington State,21,True,80,2534,Sam Houston,11,True,73,Beasley Coliseum,
 2027,401911253,2026-11-24,8:55 PM,In Progress,False,True,Regular,True,False,,2253,Grand Canyon,44,True,,139,Saint Louis,3,True,,Acrisure Arena,Acrisure Series
 2027,401927398,2026-11-24,9:00 AM,Final,True,True,Regular,True,False,3,179,St. Bonaventure,3,True,72,2750,Wright State,45,True,70,State Farm Field House,ESPN Events Invitational - Adventure Bracket
-2027,401906762,2026-11-24,9:05 PM,In Progress,False,True,Regular,True,False,,333,Alabama,23,True,,239,Baylor,8,True,,T-Mobile Arena,Players Era 16
-2027,401915943,2026-11-24,9:30 PM,Scheduled,False,True,Regular,True,False,,2599,St. John's,4,True,,2483,Oregon,7,True,,Michelob ULTRA Arena,Players Era 16
-2027,401921712,2026-11-24,9:30 PM,Scheduled,False,True,Regular,True,False,,36,Colorado State,21,True,,2670,VCU,3,True,,Lahaina Civic Center,Southwest Maui Invitational
+2027,401906762,2026-11-24,9:05 PM,Final,True,True,Regular,True,False,2,333,Alabama,23,True,63,239,Baylor,8,True,68,T-Mobile Arena,Players Era 16
+2027,401921712,2026-11-24,9:30 PM,In Progress,False,True,Regular,True,False,,36,Colorado State,21,True,,2670,VCU,3,True,,Lahaina Civic Center,Southwest Maui Invitational
 2027,401911201,2026-11-25,10:00 AM,Scheduled,False,True,Regular,False,False,,2230,Fordham,3,True,,2384,Mercy,,False,,Rose Hill Gym,
 2027,401921702,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,2429,Charlotte,62,True,,2460,Northern Iowa,18,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
 2027,401928845,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,195,Ohio,14,True,,242,Rice,62,True,,The Reef,Jacksonville Classic
@@ -1408,7 +1408,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401909720,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,183,Syracuse,2,True,,399,UAlbany,1,True,,JMA Wireless Dome,
 2027,401911241,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,257,Richmond,3,True,,2065,Bethune-Cookman,26,True,,Robins Center,
 2027,401920299,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,2692,Weber State,5,True,,2463,Cal State Northridge,9,True,,Dee Events Center,
-2027,401920549,2026-11-25,5:00 PM,Scheduled,False,True,Regular,True,False,,-1,TBD,,False,,338,Kennesaw State,11,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Consolation
+2027,401920549,2026-11-25,5:00 PM,Scheduled,False,True,Regular,True,False,,232,Charleston,10,True,,338,Kennesaw State,11,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Consolation
 2027,401922253,2026-11-25,5:00 PM,Scheduled,False,True,Regular,False,False,,2466,Northwestern State,25,True,,2697,West Florida,46,True,,Prather Coliseum,
 2027,401909568,2026-11-25,6:00 PM,Scheduled,False,True,Regular,True,False,,150,Duke,2,True,,41,UConn,4,True,,T-Mobile Arena,
 2027,401911028,2026-11-25,6:00 PM,Scheduled,False,True,Regular,False,False,,275,Wisconsin,7,True,,111,Northeastern,10,True,,Kohl Center,
@@ -1423,7 +1423,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401929287,2026-11-25,6:30 PM,Scheduled,False,True,Regular,True,False,,344,Mississippi State,23,True,,154,Wake Forest,2,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401911522,2026-11-25,7:00 PM,Scheduled,False,True,Regular,True,False,,302,UC Davis,44,True,,2437,Omaha,49,True,,Resorts World Event Center,Resorts World Classic
 2027,401920138,2026-11-25,7:00 PM,Scheduled,False,True,Regular,False,False,,2492,Pepperdine,29,True,,2934,Cal State Bakersfield,9,True,,Firestone Fieldhouse,
-2027,401920550,2026-11-25,7:30 PM,Scheduled,False,True,Regular,True,False,,-1,TBD,,False,,2199,Eastern Michigan,14,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Championship
+2027,401920550,2026-11-25,7:30 PM,Scheduled,False,True,Regular,True,False,,2638,UTEP,44,True,,2199,Eastern Michigan,14,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Championship
 2027,401917545,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,2351,Loyola Marymount,29,True,,331,Eastern Washington,5,True,,Gersten Pavilion,
 2027,401924897,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,167,New Mexico,44,True,,2400,Mississippi Valley State,26,True,,The Pit,
 2027,401925880,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,147,Montana State,5,True,,3218,Northwest Indian,,False,,Worthington Arena,
