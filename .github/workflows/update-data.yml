@@ -2,7 +2,7 @@ name: Update data
 
 on:
   schedule:
-    - cron: "17 * * * *"   # every hour at :17 (the script decides whether there's anything to do)
+    - cron: "17 * * * *"   # every hour at :17 (the scripts decide whether there's anything to do)
   workflow_dispatch:       # adds the "Run workflow" button
     inputs:
       full_refresh:
@@ -37,8 +37,20 @@ jobs:
         env:
           FULL_REFRESH: ${{ inputs.full_refresh }}
 
+      - name: Copy your Sheet inputs (Settings, Overrides, NET Ranks)
+        if: steps.fetch.outputs.skip != 'true'
+        continue-on-error: true   # if the Sheet is unreachable, keep the saved copies
+        run: python scripts/pull_inputs.py
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+
+      - name: Build standings and tiebreakers
+        if: always() && steps.fetch.outputs.skip != 'true'
+        run: python scripts/build_standings.py
+
       - name: Save data files to the repository
-        if: always()        # save whatever was downloaded, even if a later part failed
+        if: always()        # save whatever was built, even if a later part failed
         run: |
           git config user.name "hareball-bot"
           git config user.email "hareball-bot@users.noreply.github.com"
