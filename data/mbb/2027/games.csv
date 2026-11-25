@@ -1279,7 +1279,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401915943,2026-11-24,10:18 PM,Final,True,True,Regular,True,False,2,2599,St. John's,4,True,90,2483,Oregon,7,True,79,Michelob ULTRA Arena,Players Era 16
 2027,401920819,2026-11-24,11:30 AM,Final,True,True,Regular,True,False,2,2458,Northern Colorado,5,True,60,2545,SE Louisiana,25,True,70,Hard Rock Hotel Riviera Maya,Cancun Challenge - Mayan Division
 2027,401928835,2026-11-24,11:30 AM,Final,True,True,Regular,True,False,2,2006,Akron,14,True,87,2057,Belmont,18,True,64,State Farm Field House,ESPN Events Invitational - Adventure Bracket
-2027,401909800,2026-11-24,11:49 PM,In Progress,False,True,Regular,True,False,,2306,Kansas State,8,True,,2250,Gonzaga,21,True,,T-Mobile Arena,Players Era 16
+2027,401909800,2026-11-24,11:49 PM,Final,True,True,Regular,True,False,2,2306,Kansas State,8,True,61,2250,Gonzaga,21,True,101,T-Mobile Arena,Players Era 16
 2027,401919850,2026-11-24,12:00 PM,Final,True,True,Regular,False,False,2,284,Stonehill,19,True,112,130189,Vermont State Randolph,,False,64,Merkert Gymnasium,
 2027,401928358,2026-11-24,12:00 PM,Final,True,True,Regular,False,False,2,2229,Florida International,11,True,81,253,Southern Utah,5,True,66,Ocean Bank Convocation Center,Florida International MTE
 2027,401906806,2026-11-24,12:30 PM,Final,True,True,Regular,True,False,2,221,Pittsburgh,2,True,79,201,Oklahoma,23,True,68,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
@@ -1364,7 +1364,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401911201,2026-11-25,10:00 AM,Scheduled,False,True,Regular,False,False,,2230,Fordham,3,True,,2384,Mercy,,False,,Rose Hill Gym,
 2027,401921702,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,2429,Charlotte,62,True,,2460,Northern Iowa,18,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
 2027,401928845,2026-11-25,10:00 AM,Scheduled,False,True,Regular,True,False,,195,Ohio,14,True,,242,Rice,62,True,,The Reef,Jacksonville Classic
-2027,401921672,2026-11-25,10:59 PM,Scheduled,False,True,Regular,True,False,,139,Saint Louis,3,True,,-2,TBD,,False,,Acrisure Arena,Acrisure Series - Third Place Game
+2027,401921672,2026-11-25,10:59 PM,Scheduled,False,True,Regular,True,False,,139,Saint Louis,3,True,,24,Stanford,2,True,,Acrisure Arena,Acrisure Series - Third Place Game
 2027,401929005,2026-11-25,10:59 PM,Scheduled,False,True,Regular,False,False,,62,Hawai'i,44,True,,2916,Incarnate Word,25,True,,Stan Sheriff Center,
 2027,401919762,2026-11-25,11:00 AM,Scheduled,False,True,Regular,False,False,,161,Fairleigh Dickinson,19,True,,130189,Vermont State Randolph,,False,,Bogota Savings Bank Center,
 2027,401920196,2026-11-25,11:00 AM,Scheduled,False,True,Regular,False,False,,2603,Saint Joseph's,3,True,,3183,Penn State Abington,,False,,Michael J. Hagan '85 Arena,
@@ -1372,7 +1372,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920547,2026-11-25,11:30 AM,Scheduled,False,True,Regular,True,False,,2174,Detroit Mercy,45,True,,2458,Northern Colorado,5,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Mayan Division - Consolation
 2027,401928831,2026-11-25,11:30 AM,Scheduled,False,True,Regular,True,False,,2750,Wright State,45,True,,43,Yale,12,True,,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401921714,2026-11-25,11:30 PM,Scheduled,False,True,Regular,True,False,,36,Colorado State,21,True,,228,Clemson,2,True,,Lahaina Civic Center,Southwest Maui Invitational - Seventh Place Game
-2027,401909763,2026-11-25,12:00 AM,In Progress,False,True,Regular,True,False,,24,Stanford,2,True,,38,Colorado,8,True,,Acrisure Arena,Acrisure Series
+2027,401909763,2026-11-25,12:00 AM,Final,True,True,Regular,True,False,2,24,Stanford,2,True,65,38,Colorado,8,True,70,Acrisure Arena,Acrisure Series
 2027,401911029,2026-11-25,12:00 PM,Scheduled,False,True,Regular,False,False,,193,Miami (OH),14,True,,2198,Eastern Kentucky,30,True,,Millett Hall,
 2027,401920067,2026-11-25,12:00 PM,Scheduled,False,True,Regular,False,False,,227,Rhode Island,3,True,,2022,American International,,False,,Thomas M. Ryan Center,
 2027,401924268,2026-11-25,12:00 PM,Scheduled,False,True,Regular,True,False,,299,Long Beach State,9,True,,253,Southern Utah,5,True,,Ocean Bank Convocation Center,Florida International MTE
@@ -1427,7 +1427,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401917545,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,2351,Loyola Marymount,29,True,,331,Eastern Washington,5,True,,Gersten Pavilion,
 2027,401924897,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,167,New Mexico,44,True,,2400,Mississippi Valley State,26,True,,The Pit,
 2027,401925880,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,147,Montana State,5,True,,3218,Northwest Indian,,False,,Worthington Arena,
-2027,401921671,2026-11-25,8:30 PM,Scheduled,False,True,Regular,True,False,,2253,Grand Canyon,44,True,,-2,TBD,,False,,Acrisure Arena,Acrisure Series - Championship Game
+2027,401921671,2026-11-25,8:30 PM,Scheduled,False,True,Regular,True,False,,38,Colorado,8,True,,2253,Grand Canyon,44,True,,Acrisure Arena,Acrisure Series - Championship Game
 2027,401927399,2026-11-25,9:00 AM,Scheduled,False,True,Regular,True,False,,2057,Belmont,18,True,,179,St. Bonaventure,3,True,,State Farm Field House,ESPN Events Invitational - Adventure Bracket
 2027,401921713,2026-11-25,9:00 PM,Scheduled,False,True,Regular,True,False,,2670,VCU,3,True,,264,Washington,7,True,,Lahaina Civic Center,Southwest Maui Invitational - Fifth Place Game
 2027,401917544,2026-11-25,9:30 PM,Scheduled,False,True,Regular,True,False,,55,Jacksonville State,11,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
