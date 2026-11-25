@@ -1,0 +1,59 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour at :17 (the script decides whether there's anything to do)
+  workflow_dispatch:       # adds the "Run workflow" button
+    inputs:
+      full_refresh:
+        description: "Full refresh: re-download everything for every kept season"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write          # lets the job save data files back into the repository
+
+concurrency:
+  group: update-data       # never run two updates at once
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Download new data from ESPN
+        id: fetch
+        run: python scripts/update_data.py
+        env:
+          FULL_REFRESH: ${{ inputs.full_refresh }}
+
+      - name: Save data files to the repository
+        if: always()        # save whatever was downloaded, even if a later part failed
+        run: |
+          git config user.name "hareball-bot"
+          git config user.email "hareball-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No data changes to save"
+          else
+            git commit -m "Data update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Update the Google Sheet
+        if: always() && steps.fetch.outputs.skip != 'true'
+        run: python scripts/sync_sheet.py
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
