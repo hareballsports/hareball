@@ -1,0 +1,3 @@
+sport,setting,value,notes
+mbb,nonconference_fade_k,5,Phase 4: how fast non-conference games fade in the conference rating
+all,posting_paused,FALSE,Phase 6: set to TRUE to stop all automatic graphics

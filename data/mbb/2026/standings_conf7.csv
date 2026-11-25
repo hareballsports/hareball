@@ -1,0 +1,19 @@
+position,seed_note,team_id,team,conf_w,conf_l,conf_pct,games_back,overall,vs_d1,tiebreaker,unresolved
+1,Bye to the quarterfinals,130,Michigan,19,1,0.950,-,29-2,29-2,,False
+2,Bye to the quarterfinals,158,Nebraska,15,5,0.750,4,26-5,26-5,"Tied at 15-5 with Illinois, Michigan State; head-to-head among tied teams 2-1",False
+3,Bye to the quarterfinals,127,Michigan State,15,5,0.750,4,25-6,25-6,"Tied at 15-5 with Illinois, Nebraska; head-to-head among tied teams 1-1",False
+4,Bye to the quarterfinals,356,Illinois,15,5,0.750,4,24-7,24-7,"Tied at 15-5 with Michigan State, Nebraska; head-to-head among tied teams 1-2",False
+5,Bye to the third round,275,Wisconsin,14,6,0.700,5,22-9,22-9,,False
+6,Bye to the third round,26,UCLA,13,7,0.650,6,21-10,21-10,Tied at 13-7 with Purdue; head-to-head among tied teams 1-0,False
+7,Bye to the third round,2509,Purdue,13,7,0.650,6,23-8,23-8,Tied at 13-7 with UCLA; head-to-head among tied teams 0-1,False
+8,Bye to the third round,194,Ohio State,12,8,0.600,7,20-11,20-11,,False
+9,Bye to the second round,2294,Iowa,10,10,0.500,9,20-11,20-11,,False
+10,Bye to the second round,84,Indiana,9,11,0.450,10,18-13,18-13,,False
+11,Bye to the second round,135,Minnesota,8,12,0.400,11,15-16,15-16,,False
+12,Bye to the second round,264,Washington,7,13,0.350,12,15-16,15-16,Tied at 7-13 with USC; head-to-head among tied teams 2-0,False
+13,Bye to the second round,30,USC,7,13,0.350,12,18-13,17-13,Tied at 7-13 with Washington; head-to-head among tied teams 0-2,False
+14,Bye to the second round,164,Rutgers,6,14,0.300,13,13-18,13-18,,False
+15,Plays in the first round,77,Northwestern,5,15,0.250,14,13-18,13-18,Tied at 5-15 with Oregon; head-to-head among tied teams 1-0,False
+16,Plays in the first round,2483,Oregon,5,15,0.250,14,12-19,12-19,Tied at 5-15 with Northwestern; head-to-head among tied teams 0-1,False
+17,Plays in the first round,120,Maryland,4,16,0.200,15,11-20,11-20,,False
+18,Plays in the first round,213,Penn State,3,17,0.150,16,12-19,12-19,,False

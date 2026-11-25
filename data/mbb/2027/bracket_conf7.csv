@@ -1,0 +1,18 @@
+game,round,top_seed,top_team,bottom_seed,bottom_team
+G1,First round,17,Washington,16,USC
+G2,First round,18,Wisconsin,15,UCLA
+G3,Second round,9,Northwestern,,Winner of G1
+G4,Second round,13,Purdue,12,Penn State
+G5,Second round,10,Ohio State,,Winner of G2
+G6,Second round,14,Rutgers,11,Oregon
+G7,Third round,,Winner of G3,8,Nebraska
+G8,Third round,,Winner of G4,5,Michigan
+G9,Third round,,Winner of G5,7,Minnesota
+G10,Third round,,Winner of G6,6,Michigan State
+G11,Quarterfinals,1,Illinois,,Winner of G7
+G12,Quarterfinals,,Winner of G8,4,Maryland
+G13,Quarterfinals,,Winner of G9,2,Indiana
+G14,Quarterfinals,,Winner of G10,3,Iowa
+G15,Semifinals,,Winner of G11,,Winner of G12
+G16,Semifinals,,Winner of G13,,Winner of G14
+Final,Championship,,Winner of G15,,Winner of G16
