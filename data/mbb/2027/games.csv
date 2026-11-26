@@ -1435,11 +1435,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920540,2026-11-26,10:30 PM,Scheduled,False,True,Regular,True,False,,2250,Gonzaga,21,True,,239,Baylor,8,True,,T-Mobile Arena,Players Era 16
 2027,401906807,2026-11-26,11:00 AM,Final,True,True,Regular,True,False,2,2509,Purdue,7,True,63,201,Oklahoma,23,True,70,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
 2027,401912231,2026-11-26,11:00 AM,Final,True,True,Regular,False,False,2,2636,UTSA,62,True,61,349,Army,22,True,79,UTSA Convocation Center,
-2027,401920528,2026-11-26,12:00 PM,Halftime,False,True,Regular,True,False,,21,San Diego State,21,True,,120,Maryland,7,True,,Michelob ULTRA Arena,Players Era 16
+2027,401920528,2026-11-26,12:00 PM,In Progress,False,True,Regular,True,False,,21,San Diego State,21,True,,120,Maryland,7,True,,Michelob ULTRA Arena,Players Era 16
 2027,401921672,2026-11-26,12:08 AM,Final,True,True,Regular,True,False,2,139,Saint Louis,3,True,66,24,Stanford,2,True,64,Acrisure Arena,Acrisure Series - Third Place Game
 2027,401929282,2026-11-26,12:30 PM,In Progress,False,True,Regular,True,False,,2116,UCF,8,True,,103,Boston College,2,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
 2027,401921674,2026-11-26,1:00 PM,In Progress,False,True,Regular,True,False,,2579,South Carolina,23,True,,9,Arizona State,8,True,,Acrisure Arena,Acrisure Series
-2027,401906869,2026-11-26,1:30 PM,Scheduled,False,True,Regular,True,False,,251,Texas,23,True,,46,Georgetown,4,True,,Jenny Craig Pavilion,Rady Children's Invitational
+2027,401906869,2026-11-26,1:30 PM,In Progress,False,True,Regular,True,False,,251,Texas,23,True,,46,Georgetown,4,True,,Jenny Craig Pavilion,Rady Children's Invitational
 2027,401920529,2026-11-26,2:30 PM,Scheduled,False,True,Regular,True,False,,66,Iowa State,8,True,,2633,Tennessee,23,True,,Michelob ULTRA Arena,Players Era 16
 2027,401920537,2026-11-26,2:30 PM,Scheduled,False,True,Regular,True,False,,130,Michigan,7,True,,2390,Miami,2,True,,T-Mobile Arena,Players Era 16
 2027,401921673,2026-11-26,3:30 PM,Scheduled,False,True,Regular,True,False,,30,USC,7,True,,328,Utah State,21,True,,Acrisure Arena,Acrisure Series
