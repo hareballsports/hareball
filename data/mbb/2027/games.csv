@@ -1364,7 +1364,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401911201,2026-11-25,10:00 AM,Final,True,True,Regular,False,False,2,2230,Fordham,3,True,104,2384,Mercy,,False,56,Rose Hill Gym,
 2027,401921702,2026-11-25,10:00 AM,Final,True,True,Regular,True,False,2,2429,Charlotte,62,True,85,2460,Northern Iowa,18,True,72,Suncoast Credit Union Arena,Fort Myers Tip-Off - Palms Division
 2027,401928845,2026-11-25,10:00 AM,Final,True,True,Regular,True,False,2,195,Ohio,14,True,74,242,Rice,62,True,82,The Reef,Jacksonville Classic
-2027,401929005,2026-11-25,10:59 PM,Halftime,False,True,Regular,False,False,,62,Hawai'i,44,True,,2916,Incarnate Word,25,True,,Stan Sheriff Center,
+2027,401929005,2026-11-25,10:59 PM,In Progress,False,True,Regular,False,False,,62,Hawai'i,44,True,,2916,Incarnate Word,25,True,,Stan Sheriff Center,
 2027,401919762,2026-11-25,11:00 AM,Final,True,True,Regular,False,False,2,161,Fairleigh Dickinson,19,True,123,130189,Vermont State Randolph,,False,48,Bogota Savings Bank Center,
 2027,401920196,2026-11-25,11:00 AM,Final,True,True,Regular,False,False,2,2603,Saint Joseph's,3,True,104,3183,Penn State Abington,,False,48,Michael J. Hagan '85 Arena,
 2027,401920428,2026-11-25,11:00 AM,Final,True,True,Regular,True,False,2,269,Marquette,4,True,54,258,Virginia,2,True,60,Imperial Arena,Battle 4 Atlantis - Signature Series
