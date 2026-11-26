@@ -1409,28 +1409,28 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920299,2026-11-25,5:00 PM,Final,True,True,Regular,False,False,2,2692,Weber State,5,True,67,2463,Cal State Northridge,9,True,89,Dee Events Center,
 2027,401920549,2026-11-25,5:00 PM,Final,True,True,Regular,True,False,2,232,Charleston,10,True,91,338,Kennesaw State,11,True,77,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Consolation
 2027,401922253,2026-11-25,5:00 PM,Final,True,True,Regular,False,False,2,2466,Northwestern State,25,True,71,2697,West Florida,46,True,57,Prather Coliseum,
-2027,401909568,2026-11-25,6:00 PM,In Progress,False,True,Regular,True,False,,41,UConn,4,True,,150,Duke,2,True,,T-Mobile Arena,
-2027,401911028,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,275,Wisconsin,7,True,,111,Northeastern,10,True,,Kohl Center,
-2027,401917182,2026-11-25,6:00 PM,In Progress,False,True,Regular,True,False,,213,Penn State,7,True,,235,Memphis,62,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
-2027,401918960,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,152,NC State,2,True,,2450,Norfolk State,16,True,,Lenovo Center,
-2027,401920076,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,2244,George Mason,3,True,,2344,Longwood,6,True,,EagleBank Arena,
-2027,401920847,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,350,UNC Wilmington,10,True,,2900,St. Thomas,49,True,,Trask Coliseum,
-2027,401920916,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,2565,SIU Edwardsville,20,True,,2459,Northern Illinois,45,True,,First Community Arena,
-2027,401921108,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,94,Northern Kentucky,45,True,,91,Bellarmine,46,True,,Truist Arena,
-2027,401921170,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,325,Cleveland State,45,True,,2963,Case Western Reserve,,False,,Wolstein Center,
-2027,401922285,2026-11-25,6:00 PM,In Progress,False,True,Regular,False,False,,2643,The Citadel,24,True,,2908,South Carolina Upstate,6,True,,McAlister Field House,
-2027,401918971,2026-11-25,6:50 PM,Halftime,False,True,Regular,True,False,,328,Utah State,21,True,,2567,SMU,2,True,,Acrisure Arena,Acrisure Series
+2027,401909568,2026-11-25,6:00 PM,Final,True,True,Regular,True,False,2,41,UConn,4,True,63,150,Duke,2,True,77,T-Mobile Arena,
+2027,401911028,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,275,Wisconsin,7,True,91,111,Northeastern,10,True,54,Kohl Center,
+2027,401917182,2026-11-25,6:00 PM,Final,True,True,Regular,True,False,2,213,Penn State,7,True,70,235,Memphis,62,True,83,Imperial Arena,Battle 4 Atlantis - Championship Bracket
+2027,401918960,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,152,NC State,2,True,80,2450,Norfolk State,16,True,49,Lenovo Center,
+2027,401920076,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,2244,George Mason,3,True,93,2344,Longwood,6,True,58,EagleBank Arena,
+2027,401920847,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,3,350,UNC Wilmington,10,True,86,2900,St. Thomas,49,True,77,Trask Coliseum,
+2027,401920916,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,3,2565,SIU Edwardsville,20,True,65,2459,Northern Illinois,45,True,68,First Community Arena,
+2027,401921108,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,94,Northern Kentucky,45,True,52,91,Bellarmine,46,True,66,Truist Arena,
+2027,401921170,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,325,Cleveland State,45,True,76,2963,Case Western Reserve,,False,46,Wolstein Center,
+2027,401922285,2026-11-25,6:00 PM,Final,True,True,Regular,False,False,2,2643,The Citadel,24,True,72,2908,South Carolina Upstate,6,True,54,McAlister Field House,
+2027,401918971,2026-11-25,6:50 PM,Final,True,True,Regular,True,False,2,328,Utah State,21,True,93,2567,SMU,2,True,59,Acrisure Arena,Acrisure Series
 2027,401911522,2026-11-25,7:00 PM,In Progress,False,True,Regular,True,False,,302,UC Davis,44,True,,2437,Omaha,49,True,,Resorts World Event Center,Resorts World Classic
-2027,401920138,2026-11-25,7:00 PM,In Progress,False,True,Regular,False,False,,2492,Pepperdine,29,True,,2934,Cal State Bakersfield,9,True,,Firestone Fieldhouse,
-2027,401920550,2026-11-25,7:30 PM,Scheduled,False,True,Regular,True,False,,2638,UTEP,44,True,,2199,Eastern Michigan,14,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Championship
-2027,401917545,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,2351,Loyola Marymount,29,True,,331,Eastern Washington,5,True,,Gersten Pavilion,
-2027,401924897,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,167,New Mexico,44,True,,2400,Mississippi Valley State,26,True,,The Pit,
-2027,401925880,2026-11-25,8:00 PM,Scheduled,False,True,Regular,False,False,,147,Montana State,5,True,,3218,Northwest Indian,,False,,Worthington Arena,
-2027,401929287,2026-11-25,8:05 PM,Scheduled,False,True,Regular,True,False,,344,Mississippi State,23,True,,154,Wake Forest,2,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
-2027,401921671,2026-11-25,8:30 PM,Scheduled,False,True,Regular,True,False,,38,Colorado,8,True,,2253,Grand Canyon,44,True,,Acrisure Arena,Acrisure Series - Championship Game
+2027,401920138,2026-11-25,7:00 PM,Final,True,True,Regular,False,False,2,2492,Pepperdine,29,True,70,2934,Cal State Bakersfield,9,True,68,Firestone Fieldhouse,
+2027,401920550,2026-11-25,7:45 PM,In Progress,False,True,Regular,True,False,,2638,UTEP,44,True,,2199,Eastern Michigan,14,True,,Hard Rock Hotel Riviera Maya,Cancun Challenge - Riviera Division - Championship
+2027,401917545,2026-11-25,8:00 PM,In Progress,False,True,Regular,False,False,,2351,Loyola Marymount,29,True,,331,Eastern Washington,5,True,,Gersten Pavilion,
+2027,401924897,2026-11-25,8:00 PM,In Progress,False,True,Regular,False,False,,167,New Mexico,44,True,,2400,Mississippi Valley State,26,True,,The Pit,
+2027,401925880,2026-11-25,8:00 PM,In Progress,False,True,Regular,False,False,,147,Montana State,5,True,,3218,Northwest Indian,,False,,Worthington Arena,
+2027,401929287,2026-11-25,8:29 PM,In Progress,False,True,Regular,True,False,,344,Mississippi State,23,True,,154,Wake Forest,2,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401927399,2026-11-25,9:00 AM,Final,True,True,Regular,True,False,2,2057,Belmont,18,True,68,179,St. Bonaventure,3,True,71,State Farm Field House,ESPN Events Invitational - Adventure Bracket
-2027,401921713,2026-11-25,9:00 PM,Scheduled,False,True,Regular,True,False,,2670,VCU,3,True,,264,Washington,7,True,,Lahaina Civic Center,Southwest Maui Invitational - Fifth Place Game
+2027,401921713,2026-11-25,9:00 PM,In Progress,False,True,Regular,True,False,,2670,VCU,3,True,,264,Washington,7,True,,Lahaina Civic Center,Southwest Maui Invitational - Fifth Place Game
 2027,401917544,2026-11-25,9:30 PM,Scheduled,False,True,Regular,True,False,,55,Jacksonville State,11,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
+2027,401921671,2026-11-25,9:30 PM,Scheduled,False,True,Regular,True,False,,38,Colorado,8,True,,2253,Grand Canyon,44,True,,Acrisure Arena,Acrisure Series - Championship Game
 2027,401929281,2026-11-26,10:00 AM,Scheduled,False,True,Regular,True,False,,2132,Cincinnati,8,True,,61,Georgia,23,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
 2027,401920531,2026-11-26,10:30 PM,Scheduled,False,True,Regular,True,False,,2483,Oregon,7,True,,2641,Texas Tech,8,True,,Michelob ULTRA Arena,Players Era 16
 2027,401920540,2026-11-26,10:30 PM,Scheduled,False,True,Regular,True,False,,239,Baylor,8,True,,2250,Gonzaga,21,True,,T-Mobile Arena,Players Era 16
