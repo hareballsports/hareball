@@ -1440,11 +1440,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401929282,2026-11-26,12:30 PM,Final,True,True,Regular,True,False,2,2116,UCF,8,True,73,103,Boston College,2,True,75,State Farm Field House,ESPN Events Invitational - Magic Bracket
 2027,401921674,2026-11-26,1:00 PM,Final,True,True,Regular,True,False,2,2579,South Carolina,23,True,80,9,Arizona State,8,True,73,Acrisure Arena,Acrisure Series
 2027,401906869,2026-11-26,1:30 PM,Final,True,True,Regular,True,False,2,251,Texas,23,True,92,46,Georgetown,4,True,83,Jenny Craig Pavilion,Rady Children's Invitational
-2027,401920529,2026-11-26,2:30 PM,In Progress,False,True,Regular,True,False,,66,Iowa State,8,True,,2633,Tennessee,23,True,,Michelob ULTRA Arena,Players Era 16
-2027,401920537,2026-11-26,2:30 PM,In Progress,False,True,Regular,True,False,,130,Michigan,7,True,,2390,Miami,2,True,,T-Mobile Arena,Players Era 16
+2027,401920529,2026-11-26,2:30 PM,Final,True,True,Regular,True,False,2,66,Iowa State,8,True,64,2633,Tennessee,23,True,75,Michelob ULTRA Arena,Players Era 16
+2027,401920537,2026-11-26,2:30 PM,Final,True,True,Regular,True,False,2,130,Michigan,7,True,70,2390,Miami,2,True,97,T-Mobile Arena,Players Era 16
 2027,401921673,2026-11-26,3:30 PM,In Progress,False,True,Regular,True,False,,328,Utah State,21,True,,30,USC,7,True,,Acrisure Arena,Acrisure Series
 2027,401925757,2026-11-26,3:30 PM,In Progress,False,True,Regular,True,False,,127,Michigan State,7,True,,8,Arkansas,23,True,,Little Caesars Arena,
-2027,401917547,2026-11-26,4:00 PM,Scheduled,False,True,Regular,True,False,,26,UCLA,7,True,,2608,Saint Mary's,29,True,,Jenny Craig Pavilion,Rady Children's Invitational
+2027,401917547,2026-11-26,4:00 PM,In Progress,False,True,Regular,True,False,,2608,Saint Mary's,29,True,,26,UCLA,7,True,,Jenny Craig Pavilion,Rady Children's Invitational
 2027,401920538,2026-11-26,5:00 PM,Scheduled,False,True,Regular,True,False,,156,Creighton,4,True,,2628,TCU,8,True,,T-Mobile Arena,Players Era 16
 2027,401909506,2026-11-26,6:00 PM,Scheduled,False,True,Regular,True,False,,221,Pittsburgh,2,True,,305,DePaul,4,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
 2027,401918972,2026-11-26,6:00 PM,Scheduled,False,True,Regular,True,False,,99,LSU,23,True,,2567,SMU,2,True,,Acrisure Arena,Acrisure Series
