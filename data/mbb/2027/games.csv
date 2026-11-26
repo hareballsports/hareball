@@ -1460,7 +1460,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920753,2026-11-27,12:00 PM,Scheduled,False,True,Regular,False,False,,2754,Youngstown State,45,True,,131761,Bryant & Stratton (OH),,False,,Zidian Family Arena at Beeghly Center,
 2027,401921416,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2349,UMass Lowell,1,True,,2261,Hampton,10,True,,Bender Arena,Capital Thanksgiving Classic
 2027,401924810,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2771,Merrimack,13,True,,261,Vermont,1,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
-2027,401929288,2026-11-27,12:30 PM,Scheduled,False,True,Regular,True,True,,-1,TBD,,False,,-2,TBD,,False,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
+2027,401929288,2026-11-27,12:30 PM,Scheduled,False,True,Regular,True,False,,235,Memphis,62,True,,154,Wake Forest,2,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401919786,2026-11-27,1:00 PM,Scheduled,False,True,Regular,True,False,,2330,Le Moyne,19,True,,311,Maine,1,True,,Kirby Sports Center,Lafayette Classic
 2027,401921224,2026-11-27,1:00 PM,Scheduled,False,True,Regular,False,False,,2217,Fairfield,13,True,,2426,Navy,22,True,,Leo D. Mahoney Arena,Mahoney Classic
 2027,401921827,2026-11-27,1:00 PM,Scheduled,False,True,Regular,False,False,,238,Vanderbilt,23,True,,2582,Southern,26,True,,Memorial Gymnasium (TN),
@@ -1496,7 +1496,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401926756,2026-11-27,6:00 PM,Scheduled,False,True,Regular,True,False,,2540,UC Santa Barbara,9,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
 2027,401929284,2026-11-27,6:00 PM,Scheduled,False,True,Regular,True,False,,61,Georgia,23,True,,2116,UCF,8,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
 2027,401925703,2026-11-27,6:30 PM,Scheduled,False,True,Regular,False,False,,248,Houston,8,True,,2473,Oakland,45,True,,Fertitta Center,
-2027,401929289,2026-11-27,6:30 PM,Scheduled,False,True,Regular,True,True,,-1,TBD,,False,,-2,TBD,,False,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
+2027,401929289,2026-11-27,6:30 PM,Scheduled,False,True,Regular,True,False,,344,Mississippi State,23,True,,213,Penn State,7,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401911524,2026-11-27,7:00 PM,Scheduled,False,True,Regular,True,False,,302,UC Davis,44,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
 2027,401920737,2026-11-27,7:00 PM,Scheduled,False,True,Regular,False,False,,77,Northwestern,7,True,,111,Northeastern,10,True,,Welsh-Ryan Arena,
 2027,401922264,2026-11-27,7:00 PM,Scheduled,False,True,Regular,False,False,,265,Washington State,21,True,,70,Idaho,5,True,,Beasley Coliseum,
