@@ -1449,9 +1449,9 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401909506,2026-11-26,6:00 PM,Final,True,True,Regular,True,False,2,221,Pittsburgh,2,True,71,305,DePaul,4,True,64,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
 2027,401918972,2026-11-26,6:00 PM,Final,True,True,Regular,True,False,3,2567,SMU,2,True,86,99,LSU,23,True,95,Acrisure Arena,Acrisure Series
 2027,401911523,2026-11-26,7:00 PM,Final,True,True,Regular,True,False,2,55,Jacksonville State,11,True,63,302,UC Davis,44,True,68,Resorts World Event Center,Resorts World Classic
-2027,401920530,2026-11-26,8:00 PM,Halftime,False,True,Regular,True,False,,2599,St. John's,4,True,,97,Louisville,2,True,,Michelob ULTRA Arena,Players Era 16
-2027,401920539,2026-11-26,8:00 PM,Halftime,False,True,Regular,True,False,,2306,Kansas State,8,True,,333,Alabama,23,True,,T-Mobile Arena,Players Era 16
-2027,401917546,2026-11-26,9:30 PM,Scheduled,False,True,Regular,True,False,,2437,Omaha,49,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
+2027,401920530,2026-11-26,8:00 PM,In Progress,False,True,Regular,True,False,,2599,St. John's,4,True,,97,Louisville,2,True,,Michelob ULTRA Arena,Players Era 16
+2027,401920539,2026-11-26,8:00 PM,Final,True,True,Regular,True,False,2,2306,Kansas State,8,True,91,333,Alabama,23,True,104,T-Mobile Arena,Players Era 16
+2027,401917546,2026-11-26,9:30 PM,In Progress,False,True,Regular,True,False,,2437,Omaha,49,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
 2027,401920429,2026-11-27,10:00 AM,Scheduled,False,True,Regular,True,False,,2752,Xavier,4,True,,258,Virginia,2,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
 2027,401920544,2026-11-27,10:00 PM,Scheduled,False,True,Regular,True,True,,-1,TBD,,False,,-2,TBD,,False,,T-Mobile Arena,Players Era 16 - Bracket Final
 2027,401920535,2026-11-27,10:30 PM,Scheduled,False,True,Regular,True,True,,-1,TBD,,False,,-2,TBD,,False,,Michelob ULTRA Arena,Players Era 16 - Fifth Place Game
