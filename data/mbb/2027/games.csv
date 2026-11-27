@@ -1444,11 +1444,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920537,2026-11-26,2:30 PM,Final,True,True,Regular,True,False,2,130,Michigan,7,True,70,2390,Miami,2,True,97,T-Mobile Arena,Players Era 16
 2027,401921673,2026-11-26,3:30 PM,Final,True,True,Regular,True,False,2,328,Utah State,21,True,78,30,USC,7,True,74,Acrisure Arena,Acrisure Series
 2027,401925757,2026-11-26,3:30 PM,Final,True,True,Regular,True,False,2,127,Michigan State,7,True,70,8,Arkansas,23,True,67,Little Caesars Arena,
-2027,401917547,2026-11-26,4:00 PM,In Progress,False,True,Regular,True,False,,2608,Saint Mary's,29,True,,26,UCLA,7,True,,Jenny Craig Pavilion,Rady Children's Invitational
-2027,401920538,2026-11-26,5:00 PM,Halftime,False,True,Regular,True,False,,156,Creighton,4,True,,2628,TCU,8,True,,T-Mobile Arena,Players Era 16
-2027,401909506,2026-11-26,6:00 PM,Scheduled,False,True,Regular,True,False,,221,Pittsburgh,2,True,,305,DePaul,4,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
-2027,401918972,2026-11-26,6:00 PM,Scheduled,False,True,Regular,True,False,,99,LSU,23,True,,2567,SMU,2,True,,Acrisure Arena,Acrisure Series
-2027,401911523,2026-11-26,7:00 PM,Scheduled,False,True,Regular,True,False,,302,UC Davis,44,True,,55,Jacksonville State,11,True,,Resorts World Event Center,Resorts World Classic
+2027,401917547,2026-11-26,4:00 PM,Final,True,True,Regular,True,False,2,2608,Saint Mary's,29,True,85,26,UCLA,7,True,70,Jenny Craig Pavilion,Rady Children's Invitational
+2027,401920538,2026-11-26,5:00 PM,Final,True,True,Regular,True,False,2,156,Creighton,4,True,95,2628,TCU,8,True,87,T-Mobile Arena,Players Era 16
+2027,401909506,2026-11-26,6:00 PM,In Progress,False,True,Regular,True,False,,221,Pittsburgh,2,True,,305,DePaul,4,True,,Suncoast Credit Union Arena,Fort Myers Tip-Off - Beach Division
+2027,401918972,2026-11-26,6:00 PM,Halftime,False,True,Regular,True,False,,2567,SMU,2,True,,99,LSU,23,True,,Acrisure Arena,Acrisure Series
+2027,401911523,2026-11-26,7:00 PM,In Progress,False,True,Regular,True,False,,55,Jacksonville State,11,True,,302,UC Davis,44,True,,Resorts World Event Center,Resorts World Classic
 2027,401920530,2026-11-26,8:00 PM,Scheduled,False,True,Regular,True,False,,2599,St. John's,4,True,,97,Louisville,2,True,,Michelob ULTRA Arena,Players Era 16
 2027,401920539,2026-11-26,8:00 PM,Scheduled,False,True,Regular,True,False,,2306,Kansas State,8,True,,333,Alabama,23,True,,T-Mobile Arena,Players Era 16
 2027,401917546,2026-11-26,9:30 PM,Scheduled,False,True,Regular,True,False,,2437,Omaha,49,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
