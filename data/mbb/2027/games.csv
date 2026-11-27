@@ -1651,7 +1651,6 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401917906,2026-12-01,10:00 AM,Scheduled,False,True,Regular,False,False,,2698,West Georgia,30,True,,88,Southern Indiana,20,True,,The Coliseum,
 2027,401928361,2026-12-01,11:00 AM,Scheduled,False,True,Regular,False,False,,2582,Southern,26,True,,3134,Champion Christian,,False,,F.G. Clark Activity Center,
 2027,401925711,2026-12-01,11:00 PM,Scheduled,False,True,Regular,False,False,,2569,South Carolina State,16,True,,2737,Winthrop,6,True,,Smith-Hammond-Middleton Memorial Center,
-2027,401925081,2026-12-01,12:00 PM,Scheduled,False,True,Regular,False,False,,2466,Northwestern State,25,True,,3120,Ecclesia,,False,,Prather Coliseum,
 2027,401921159,2026-12-01,3:00 PM,Scheduled,False,True,Regular,False,False,,2448,North Carolina A&T,10,True,,50024,Washington Adventist,,False,,Ellis Corbett Sports Center,
 2027,401906785,2026-12-01,4:00 PM,Scheduled,False,True,Regular,False,False,,61,Georgia,23,True,,103,Boston College,2,True,,Stegeman Coliseum,SEC/ACC Men's Challenge
 2027,401911819,2026-12-01,5:00 PM,Scheduled,False,True,Regular,False,True,,2678,VMI,24,True,,2430,UNC Greensboro,24,True,,Cameron Hall,
@@ -1659,6 +1658,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401929615,2026-12-01,5:00 PM,Scheduled,False,True,Regular,False,False,,2803,Bryant,1,True,,185,Vassar,,False,,Chace Athletic Center,
 2027,401920683,2026-12-01,5:30 PM,Scheduled,False,True,Regular,False,False,,2599,St. John's,4,True,,171,Columbia,12,True,,Carnesecca Arena,
 2027,401921778,2026-12-01,5:30 PM,Scheduled,False,True,Regular,False,False,,218,Temple,62,True,,222,Villanova,4,True,,Liacouras Center,Big 5 Classic - Campus Game
+2027,401925081,2026-12-01,5:30 PM,Scheduled,False,True,Regular,False,False,,2466,Northwestern State,25,True,,3120,Ecclesia,,False,,Prather Coliseum,
 2027,401929440,2026-12-01,5:30 PM,Scheduled,False,True,Regular,False,False,,2026,App State,27,True,,108942,Carolina University,,False,,Holmes Convocation Center,
 2027,401906854,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,2633,Tennessee,23,True,,52,Florida State,2,True,,Food City Center,SEC/ACC Men's Challenge
 2027,401909537,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,2507,Providence,4,True,,284,Stonehill,19,True,,Amica Mutual Pavilion,
@@ -1677,7 +1677,6 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920978,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,236,Chattanooga,24,True,,2010,Alabama A&M,26,True,,McKenzie Arena,
 2027,401921187,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,219,Pennsylvania,12,True,,2315,Kutztown,,False,,The Palestra,
 2027,401921874,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,True,,2509,Purdue,7,True,,2294,Iowa,7,True,,Mackey Arena,
-2027,401925734,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,130,Michigan,7,True,,2400,Mississippi Valley State,26,True,,Crisler Center,
 2027,401925814,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,2325,La Salle,3,True,,2747,Wofford,24,True,,John Glaser Arena,
 2027,401926107,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,2193,East Tennessee State,24,True,,3229,Virginia Lynchburg,,False,,Freedom Hall (TN),
 2027,401926114,2026-12-01,6:00 PM,Scheduled,False,True,Regular,False,False,,2653,Troy,27,True,,231,Furman,24,True,,Trojan Arena,
@@ -1697,6 +1696,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401918973,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,2567,SMU,2,True,,2617,Stephen F. Austin,25,True,,Moody Coliseum (Dallas),
 2027,401921873,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,True,,84,Indiana,7,True,,164,Rutgers,7,True,,Simon Skjodt Assembly Hall,
 2027,401925689,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,66,Iowa State,8,True,,2016,Alcorn State,26,True,,Hilton Coliseum,
+2027,401925734,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,130,Michigan,7,True,,2400,Mississippi Valley State,26,True,,Crisler Center,
 2027,401927358,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,71,Bradley,18,True,,263,Loras,,False,,Carver Arena,
 2027,401929396,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,2437,Omaha,49,True,,573,Mount Marty,,False,,Baxter Arena,
 2027,401929412,2026-12-01,7:00 PM,Scheduled,False,True,Regular,False,False,,155,North Dakota,49,True,,3080,Waldorf,,False,,Betty Engelstad Sioux Center,
