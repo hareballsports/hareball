@@ -1455,11 +1455,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920429,2026-11-27,10:00 AM,In Progress,False,True,Regular,True,False,,2752,Xavier,4,True,,258,Virginia,2,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
 2027,401920544,2026-11-27,10:00 PM,Scheduled,False,True,Regular,True,False,,2250,Gonzaga,21,True,,156,Creighton,4,True,,T-Mobile Arena,Players Era 16 - Bracket Final
 2027,401920535,2026-11-27,10:30 PM,Scheduled,False,True,Regular,True,False,,2641,Texas Tech,8,True,,21,San Diego State,21,True,,Michelob ULTRA Arena,Players Era 16 - Fifth Place Game
-2027,401920848,2026-11-27,11:00 AM,Scheduled,False,True,Regular,True,False,,2900,St. Thomas,49,True,,2335,Liberty,11,True,,Trask Coliseum,Live Oak Bank Holiday Classic
-2027,401920533,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,66,Iowa State,8,True,,2599,St. John's,4,True,,Michelob ULTRA Arena,Players Era 16 - Third Place Game
-2027,401920753,2026-11-27,12:00 PM,Scheduled,False,True,Regular,False,False,,2754,Youngstown State,45,True,,131761,Bryant & Stratton (OH),,False,,Zidian Family Arena at Beeghly Center,
-2027,401921416,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2349,UMass Lowell,1,True,,2261,Hampton,10,True,,Bender Arena,Capital Thanksgiving Classic
-2027,401924810,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2771,Merrimack,13,True,,261,Vermont,1,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
+2027,401920848,2026-11-27,11:00 AM,In Progress,False,True,Regular,True,False,,2335,Liberty,11,True,,2900,St. Thomas,49,True,,Trask Coliseum,Live Oak Bank Holiday Classic
+2027,401920533,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2599,St. John's,4,True,,66,Iowa State,8,True,,Michelob ULTRA Arena,Players Era 16 - Third Place Game
+2027,401920753,2026-11-27,12:00 PM,In Progress,False,True,Regular,False,False,,2754,Youngstown State,45,True,,131761,Bryant & Stratton (OH),,False,,Zidian Family Arena at Beeghly Center,
+2027,401921416,2026-11-27,12:00 PM,Scheduled,False,True,Regular,True,False,,2261,Hampton,10,True,,2349,UMass Lowell,1,True,,Bender Arena,Capital Thanksgiving Classic
+2027,401924810,2026-11-27,12:00 PM,In Progress,False,True,Regular,True,False,,261,Vermont,1,True,,2771,Merrimack,13,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401929288,2026-11-27,12:30 PM,Scheduled,False,True,Regular,True,False,,235,Memphis,62,True,,154,Wake Forest,2,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
 2027,401919786,2026-11-27,1:00 PM,Scheduled,False,True,Regular,True,False,,2330,Le Moyne,19,True,,311,Maine,1,True,,Kirby Sports Center,Lafayette Classic
 2027,401921224,2026-11-27,1:00 PM,Scheduled,False,True,Regular,False,False,,2217,Fairfield,13,True,,2426,Navy,22,True,,Leo D. Mahoney Arena,Mahoney Classic
@@ -1472,7 +1472,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920542,2026-11-27,2:00 PM,Scheduled,False,True,Regular,True,True,,239,Baylor,8,True,,2628,TCU,8,True,,T-Mobile Arena,Players Era 16 - Third Place Game
 2027,401924738,2026-11-27,2:00 PM,Scheduled,False,True,Regular,False,False,,350,UNC Wilmington,10,True,,163,Princeton,12,True,,Trask Coliseum,Seahawk Classic
 2027,401928468,2026-11-27,2:00 PM,Scheduled,False,True,Regular,False,False,,2348,Louisiana Tech,27,True,,326,Texas State,21,True,,Thomas Assembly Center,
-2027,401920532,2026-11-27,2:30 PM,Scheduled,False,True,Regular,True,True,,120,Maryland,7,True,,2483,Oregon,7,True,,Michelob ULTRA Arena,Players Era 16 - Seventh Place Game
+2027,401920532,2026-11-27,2:30 PM,Scheduled,False,True,Regular,True,True,,2483,Oregon,7,True,,120,Maryland,7,True,,Michelob ULTRA Arena,Players Era 16 - Seventh Place Game
 2027,401920774,2026-11-27,2:30 PM,Scheduled,False,True,Regular,False,False,,2275,Hofstra,10,True,,2142,Colgate,22,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401921417,2026-11-27,2:30 PM,Scheduled,False,True,Regular,True,False,,2083,Bucknell,22,True,,2325,La Salle,3,True,,The Palestra,Cathedral Classic
 2027,401911212,2026-11-27,3:00 PM,Scheduled,False,True,Regular,False,False,,45,George Washington,3,True,,2378,UMBC,1,True,,Charles E. Smith Center,
