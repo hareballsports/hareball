@@ -1452,7 +1452,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920530,2026-11-26,8:00 PM,Final,True,True,Regular,True,False,2,2599,St. John's,4,True,90,97,Louisville,2,True,93,Michelob ULTRA Arena,Players Era 16
 2027,401920539,2026-11-26,8:00 PM,Final,True,True,Regular,True,False,2,2306,Kansas State,8,True,91,333,Alabama,23,True,104,T-Mobile Arena,Players Era 16
 2027,401917546,2026-11-26,9:30 PM,Final,True,True,Regular,True,False,2,2437,Omaha,49,True,62,279,Pacific,29,True,71,Resorts World Event Center,Resorts World Classic
-2027,401920429,2026-11-27,10:00 AM,Scheduled,False,True,Regular,True,False,,2752,Xavier,4,True,,258,Virginia,2,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
+2027,401920429,2026-11-27,10:00 AM,In Progress,False,True,Regular,True,False,,2752,Xavier,4,True,,258,Virginia,2,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
 2027,401920544,2026-11-27,10:00 PM,Scheduled,False,True,Regular,True,False,,2250,Gonzaga,21,True,,156,Creighton,4,True,,T-Mobile Arena,Players Era 16 - Bracket Final
 2027,401920535,2026-11-27,10:30 PM,Scheduled,False,True,Regular,True,False,,2641,Texas Tech,8,True,,21,San Diego State,21,True,,Michelob ULTRA Arena,Players Era 16 - Fifth Place Game
 2027,401920848,2026-11-27,11:00 AM,Scheduled,False,True,Regular,True,False,,2900,St. Thomas,49,True,,2335,Liberty,11,True,,Trask Coliseum,Live Oak Bank Holiday Classic
