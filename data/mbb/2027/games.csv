@@ -1489,23 +1489,23 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401911030,2026-11-27,5:00 PM,Final,True,True,Regular,False,False,2,84,Indiana,7,True,93,189,Bowling Green,14,True,57,Simon Skjodt Assembly Hall,
 2027,401913531,2026-11-27,5:00 PM,Final,True,True,Regular,False,False,2,356,Illinois,7,True,116,98,Western Kentucky,11,True,76,State Farm Center,
 2027,401933055,2026-11-27,5:00 PM,Final,True,True,Regular,False,False,2,2908,South Carolina Upstate,6,True,87,2576,Southern Wesleyan,,False,78,G.B. Hodge Center,
-2027,401921185,2026-11-27,5:40 PM,In Progress,False,True,Regular,False,False,,219,Pennsylvania,12,True,,119,Towson,10,True,,The Palestra,Cathedral Classic
-2027,401911380,2026-11-27,6:00 PM,In Progress,False,True,Regular,False,False,,2193,East Tennessee State,24,True,,2127,Charleston Southern,6,True,,Freedom Hall (TN),ETSU MTE
-2027,401912711,2026-11-27,6:00 PM,In Progress,False,True,Regular,True,False,,153,North Carolina,2,True,,277,West Virginia,8,True,,Spectrum Center,Dick Vitale Invitational pres. by Belk
-2027,401918980,2026-11-27,6:00 PM,In Progress,False,True,Regular,False,False,,151,East Carolina,62,True,,286,North Carolina Wesleyan,,False,,Williams Arena at Minges Coliseum,
-2027,401926756,2026-11-27,6:00 PM,In Progress,False,True,Regular,True,False,,2540,UC Santa Barbara,9,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
-2027,401929284,2026-11-27,6:00 PM,In Progress,False,True,Regular,True,False,,61,Georgia,23,True,,2116,UCF,8,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
-2027,401925703,2026-11-27,6:30 PM,Halftime,False,True,Regular,False,False,,248,Houston,8,True,,2473,Oakland,45,True,,Fertitta Center,
-2027,401929289,2026-11-27,6:30 PM,Halftime,False,True,Regular,True,False,,344,Mississippi State,23,True,,213,Penn State,7,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
-2027,401911524,2026-11-27,7:00 PM,In Progress,False,True,Regular,True,False,,302,UC Davis,44,True,,279,Pacific,29,True,,Resorts World Event Center,Resorts World Classic
-2027,401920737,2026-11-27,7:00 PM,In Progress,False,True,Regular,False,False,,77,Northwestern,7,True,,111,Northeastern,10,True,,Welsh-Ryan Arena,
+2027,401921185,2026-11-27,5:40 PM,Final,True,True,Regular,False,False,2,219,Pennsylvania,12,True,61,119,Towson,10,True,72,The Palestra,Cathedral Classic
+2027,401911380,2026-11-27,6:00 PM,Final,True,True,Regular,False,False,2,2193,East Tennessee State,24,True,67,2127,Charleston Southern,6,True,76,Freedom Hall (TN),ETSU MTE
+2027,401912711,2026-11-27,6:00 PM,Final,True,True,Regular,True,False,2,153,North Carolina,2,True,59,277,West Virginia,8,True,72,Spectrum Center,Dick Vitale Invitational pres. by Belk
+2027,401918980,2026-11-27,6:00 PM,Final,True,True,Regular,False,False,2,151,East Carolina,62,True,92,286,North Carolina Wesleyan,,False,43,Williams Arena at Minges Coliseum,
+2027,401926756,2026-11-27,6:00 PM,Final,True,True,Regular,True,False,2,2540,UC Santa Barbara,9,True,75,2329,Lehigh,22,True,43,Gilbert Arena,Gratitude Thanksgiving Classic
+2027,401929284,2026-11-27,6:00 PM,Final,True,True,Regular,True,False,2,61,Georgia,23,True,76,2116,UCF,8,True,88,State Farm Field House,ESPN Events Invitational - Magic Bracket
+2027,401925703,2026-11-27,6:30 PM,Final,True,True,Regular,False,False,2,248,Houston,8,True,77,2473,Oakland,45,True,46,Fertitta Center,
+2027,401929289,2026-11-27,6:30 PM,Final,True,True,Regular,True,False,2,344,Mississippi State,23,True,63,213,Penn State,7,True,68,Imperial Arena,Battle 4 Atlantis - Championship Bracket
+2027,401911524,2026-11-27,7:00 PM,Final,True,True,Regular,True,False,2,302,UC Davis,44,True,61,279,Pacific,29,True,78,Resorts World Event Center,Resorts World Classic
+2027,401920737,2026-11-27,7:00 PM,Final,True,True,Regular,False,False,2,77,Northwestern,7,True,65,111,Northeastern,10,True,61,Welsh-Ryan Arena,
 2027,401922264,2026-11-27,7:00 PM,In Progress,False,True,Regular,False,False,,265,Washington State,21,True,,70,Idaho,5,True,,Beasley Coliseum,
 2027,401925829,2026-11-27,7:00 PM,In Progress,False,True,Regular,True,False,,249,North Texas,62,True,,2449,North Dakota State,49,True,,Mountain America Center,Snake River Invitational
-2027,401928624,2026-11-27,7:00 PM,In Progress,False,True,Regular,False,False,,198,Oral Roberts,49,True,,2623,Missouri State,11,True,,Mabee Center,
-2027,401929381,2026-11-27,7:00 PM,In Progress,False,True,Regular,False,False,,2031,Little Rock,30,True,,6371,Lane College,,False,,Jack Stephens Center,
-2027,401920543,2026-11-27,7:30 PM,Scheduled,False,True,Regular,True,False,,333,Alabama,23,True,,2390,Miami,2,True,,T-Mobile Arena,Players Era 16 - Fifth Place Game
-2027,401919033,2026-11-27,8:00 PM,Scheduled,False,True,Regular,False,False,,96,Kentucky,23,True,,2724,Wichita State,62,True,,Rupp Arena,
-2027,401920534,2026-11-27,8:00 PM,Scheduled,False,True,Regular,True,False,,97,Louisville,2,True,,2633,Tennessee,23,True,,Michelob ULTRA Arena,Players Era 16 - Bracket Final
+2027,401928624,2026-11-27,7:00 PM,Final,True,True,Regular,False,False,2,198,Oral Roberts,49,True,72,2623,Missouri State,11,True,66,Mabee Center,
+2027,401929381,2026-11-27,7:00 PM,Final,True,True,Regular,False,False,2,2031,Little Rock,30,True,88,6371,Lane College,,False,58,Jack Stephens Center,
+2027,401920543,2026-11-27,7:30 PM,In Progress,False,True,Regular,True,False,,333,Alabama,23,True,,2390,Miami,2,True,,T-Mobile Arena,Players Era 16 - Fifth Place Game
+2027,401919033,2026-11-27,8:00 PM,Halftime,False,True,Regular,False,False,,96,Kentucky,23,True,,2724,Wichita State,62,True,,Rupp Arena,
+2027,401920534,2026-11-27,8:00 PM,Halftime,False,True,Regular,True,False,,97,Louisville,2,True,,2633,Tennessee,23,True,,Michelob ULTRA Arena,Players Era 16 - Bracket Final
 2027,401926783,2026-11-27,9:30 PM,Scheduled,False,True,Regular,True,False,,2437,Omaha,49,True,,55,Jacksonville State,11,True,,Resorts World Event Center,Resorts World Classic
 2027,401918961,2026-11-28,11:00 AM,Scheduled,False,True,Regular,False,False,,152,NC State,2,True,,2210,Elon,10,True,,Lenovo Center,
 2027,401920849,2026-11-28,11:00 AM,Scheduled,False,True,Regular,True,False,,2900,St. Thomas,49,True,,163,Princeton,12,True,,Trask Coliseum,Seahawk Classic
