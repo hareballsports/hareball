@@ -1453,8 +1453,8 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920539,2026-11-26,8:00 PM,Final,True,True,Regular,True,False,2,2306,Kansas State,8,True,91,333,Alabama,23,True,104,T-Mobile Arena,Players Era 16
 2027,401917546,2026-11-26,9:30 PM,Final,True,True,Regular,True,False,2,2437,Omaha,49,True,62,279,Pacific,29,True,71,Resorts World Event Center,Resorts World Classic
 2027,401920429,2026-11-27,10:00 AM,Final,True,True,Regular,True,False,2,2752,Xavier,4,True,71,258,Virginia,2,True,83,Imperial Arena,Battle 4 Atlantis - Signature Series
-2027,401920544,2026-11-27,10:15 PM,Scheduled,False,True,Regular,True,False,,2250,Gonzaga,21,True,,156,Creighton,4,True,,T-Mobile Arena,Players Era 16 - Bracket Final
-2027,401920535,2026-11-27,10:30 PM,Scheduled,False,True,Regular,True,False,,2641,Texas Tech,8,True,,21,San Diego State,21,True,,Michelob ULTRA Arena,Players Era 16 - Fifth Place Game
+2027,401920544,2026-11-27,10:15 PM,Halftime,False,True,Regular,True,False,,2250,Gonzaga,21,True,,156,Creighton,4,True,,T-Mobile Arena,Players Era 16 - Bracket Final
+2027,401920535,2026-11-27,10:30 PM,In Progress,False,True,Regular,True,False,,2641,Texas Tech,8,True,,21,San Diego State,21,True,,Michelob ULTRA Arena,Players Era 16 - Fifth Place Game
 2027,401920848,2026-11-27,11:00 AM,Final,True,True,Regular,True,False,2,2335,Liberty,11,True,76,2900,St. Thomas,49,True,67,Trask Coliseum,Live Oak Bank Holiday Classic
 2027,401920533,2026-11-27,12:00 PM,Final,True,True,Regular,True,False,2,2599,St. John's,4,True,80,66,Iowa State,8,True,75,Michelob ULTRA Arena,Players Era 16 - Third Place Game
 2027,401920753,2026-11-27,12:00 PM,Final,True,True,Regular,False,False,2,2754,Youngstown State,45,True,96,131761,Bryant & Stratton (OH),,False,66,Zidian Family Arena at Beeghly Center,
@@ -1504,8 +1504,8 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401928624,2026-11-27,7:00 PM,Final,True,True,Regular,False,False,2,198,Oral Roberts,49,True,72,2623,Missouri State,11,True,66,Mabee Center,
 2027,401929381,2026-11-27,7:00 PM,Final,True,True,Regular,False,False,2,2031,Little Rock,30,True,88,6371,Lane College,,False,58,Jack Stephens Center,
 2027,401920543,2026-11-27,7:30 PM,Final,True,True,Regular,True,False,2,333,Alabama,23,True,81,2390,Miami,2,True,87,T-Mobile Arena,Players Era 16 - Fifth Place Game
-2027,401919033,2026-11-27,8:00 PM,In Progress,False,True,Regular,False,False,,96,Kentucky,23,True,,2724,Wichita State,62,True,,Rupp Arena,
-2027,401920534,2026-11-27,8:00 PM,In Progress,False,True,Regular,True,False,,97,Louisville,2,True,,2633,Tennessee,23,True,,Michelob ULTRA Arena,Players Era 16 - Bracket Final
+2027,401919033,2026-11-27,8:00 PM,Final,True,True,Regular,False,False,3,96,Kentucky,23,True,71,2724,Wichita State,62,True,73,Rupp Arena,
+2027,401920534,2026-11-27,8:00 PM,Final,True,True,Regular,True,False,2,97,Louisville,2,True,84,2633,Tennessee,23,True,64,Michelob ULTRA Arena,Players Era 16 - Bracket Final
 2027,401926783,2026-11-27,9:30 PM,In Progress,False,True,Regular,True,False,,55,Jacksonville State,11,True,,2437,Omaha,49,True,,Resorts World Event Center,Resorts World Classic
 2027,401918961,2026-11-28,11:00 AM,Scheduled,False,True,Regular,False,False,,152,NC State,2,True,,2210,Elon,10,True,,Lenovo Center,
 2027,401920849,2026-11-28,11:00 AM,Scheduled,False,True,Regular,True,False,,2900,St. Thomas,49,True,,163,Princeton,12,True,,Trask Coliseum,Seahawk Classic
@@ -1527,6 +1527,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920350,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2506,Presbyterian,6,True,,16,Sacramento State,9,True,,Templeton Center,
 2027,401920415,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2272,High Point,6,True,,2643,The Citadel,24,True,,Qubein Center,
 2027,401920728,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2294,Iowa,7,True,,2504,Prairie View A&M,26,True,,Carver-Hawkeye Arena,
+2027,401920859,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,276,Marshall,27,True,,2837,East Texas A&M,25,True,,Cam Henderson Center,
 2027,401920977,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,236,Chattanooga,24,True,,2653,Troy,27,True,,McKenzie Arena,
 2027,401921031,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2427,UNC Asheville,6,True,,290,Georgia Southern,27,True,,Kimmel Arena,
 2027,401921158,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2448,North Carolina A&T,10,True,,2169,Delaware State,16,True,,Ellis Corbett Sports Center,
@@ -1552,7 +1553,6 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401917549,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,301,San Diego,29,True,,2458,Northern Colorado,5,True,,Jenny Craig Pavilion,
 2027,401917954,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,231,Furman,24,True,,2046,Austin Peay,30,True,,Timmons Arena,
 2027,401920436,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,3084,Utah Valley,9,True,,23,San José State,44,True,,UCCU Center,
-2027,401920859,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,276,Marshall,27,True,,2837,East Texas A&M,25,True,,Cam Henderson Center,
 2027,401920906,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,2619,Stony Brook,10,True,,48,Delaware,11,True,,Stony Brook Arena,
 2027,401920924,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,116,Mount St. Mary's,13,True,,2182,Drexel,10,True,,Knott Arena,
 2027,401922024,2026-11-28,3:00 PM,Scheduled,False,True,Regular,False,False,,304,Idaho State,5,True,,5305,Azusa Pacific,,False,,Reed Gym,
@@ -1582,7 +1582,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401917968,2026-11-28,7:00 PM,Scheduled,False,True,Regular,False,False,,2000,Abilene Christian,30,True,,2163,Dallas,,False,,Moody Coliseum (Abilene),
 2027,401919851,2026-11-28,7:00 PM,Scheduled,False,True,Regular,False,False,,87,Notre Dame,2,True,,284,Stonehill,19,True,,Purcell Pavilion,
 2027,401917551,2026-11-28,9:00 PM,Scheduled,False,True,Regular,False,False,,28,UC San Diego,9,True,,2351,Loyola Marymount,29,True,,LionTree Arena,
-2027,401920536,2026-11-28,9:30 PM,Scheduled,False,True,Regular,True,True,,-1,TBD,,False,,-2,TBD,,False,,Michelob ULTRA Arena,Players Era 16 - Championship
+2027,401920536,2026-11-28,9:30 PM,Scheduled,False,True,Regular,True,False,,97,Louisville,2,True,,-2,TBD,,False,,Michelob ULTRA Arena,Players Era 16 - Championship
 2027,401920776,2026-11-29,11:00 AM,Scheduled,False,True,Regular,True,False,,2142,Colgate,22,True,,2771,Merrimack,13,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401923306,2026-11-29,11:00 AM,Scheduled,False,True,Regular,True,False,,311,Maine,1,True,,315,Niagara,13,True,,Kirby Sports Center,Lafayette Classic
 2027,401911189,2026-11-29,12:00 PM,Scheduled,False,True,Regular,True,False,,2168,Dayton,3,True,,235,Memphis,62,True,,Nationwide Arena,A10/American Showcase
