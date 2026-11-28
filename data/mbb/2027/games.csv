@@ -1507,35 +1507,35 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401919033,2026-11-27,8:00 PM,Final,True,True,Regular,False,False,3,96,Kentucky,23,True,71,2724,Wichita State,62,True,73,Rupp Arena,
 2027,401920534,2026-11-27,8:00 PM,Final,True,True,Regular,True,False,2,97,Louisville,2,True,84,2633,Tennessee,23,True,64,Michelob ULTRA Arena,Players Era 16 - Bracket Final
 2027,401926783,2026-11-27,9:30 PM,Final,True,True,Regular,True,False,2,55,Jacksonville State,11,True,69,2437,Omaha,49,True,78,Resorts World Event Center,Resorts World Classic
-2027,401918961,2026-11-28,11:00 AM,Halftime,False,True,Regular,False,False,,152,NC State,2,True,,2210,Elon,10,True,,Lenovo Center,
-2027,401920849,2026-11-28,11:00 AM,Halftime,False,True,Regular,True,False,,163,Princeton,12,True,,2900,St. Thomas,49,True,,Trask Coliseum,Seahawk Classic
-2027,401920890,2026-11-28,11:00 AM,Halftime,False,True,Regular,False,False,,2550,Seton Hall,4,True,,2561,Siena,13,True,,Prudential Center,
-2027,401911395,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,2241,Gardner-Webb,6,True,,2428,North Carolina Central,16,True,,Paul Porter Arena,
-2027,401920310,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,59,Georgia Tech,2,True,,2016,Alcorn State,26,True,,McCamish Pavilion,
-2027,401920775,2026-11-28,12:00 PM,Scheduled,False,True,Regular,True,False,,2142,Colgate,22,True,,261,Vermont,1,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
-2027,401921414,2026-11-28,12:00 PM,Scheduled,False,True,Regular,True,False,,2515,Radford,6,True,,2261,Hampton,10,True,,Bender Arena,Capital Thanksgiving Classic
-2027,401926212,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,2870,Purdue Fort Wayne,45,True,,2747,Wofford,24,True,,Memorial Coliseum (IN),
-2027,401927379,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,282,Indiana State,18,True,,130262,IU Columbus,,False,,Hulman Center,
-2027,401927389,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,2460,Northern Iowa,18,True,,2523,Robert Morris,45,True,,McLeod Center,
-2027,401926757,2026-11-28,12:30 PM,Scheduled,False,True,Regular,True,False,,2492,Pepperdine,29,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
-2027,401911031,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,88,Southern Indiana,20,True,,2050,Ball State,14,True,,Liberty Arena (IN),
-2027,401911202,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,108,Harvard,12,True,,2230,Fordham,3,True,,Lavietes Pavilion,
-2027,401917920,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2110,Central Arkansas,30,True,,3238,Southwestern Christian U,,False,,Farris Center,
-2027,401919736,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,71,Bradley,18,True,,2130,Chicago State,19,True,,Carver Arena,
-2027,401919787,2026-11-28,1:00 PM,Scheduled,False,True,Regular,True,False,,315,Niagara,13,True,,2330,Le Moyne,19,True,,Kirby Sports Center,Lafayette Classic
-2027,401920077,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2244,George Mason,3,True,,2368,Marist,13,True,,EagleBank Arena,
-2027,401920350,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2506,Presbyterian,6,True,,16,Sacramento State,9,True,,Templeton Center,
-2027,401920415,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2272,High Point,6,True,,2643,The Citadel,24,True,,Qubein Center,
-2027,401920728,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2294,Iowa,7,True,,2504,Prairie View A&M,26,True,,Carver-Hawkeye Arena,
-2027,401920859,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,276,Marshall,27,True,,2837,East Texas A&M,25,True,,Cam Henderson Center,
-2027,401920977,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,236,Chattanooga,24,True,,2653,Troy,27,True,,McKenzie Arena,
-2027,401921031,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2427,UNC Asheville,6,True,,290,Georgia Southern,27,True,,Kimmel Arena,
-2027,401921158,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2448,North Carolina A&T,10,True,,2169,Delaware State,16,True,,Ellis Corbett Sports Center,
-2027,401921245,2026-11-28,1:00 PM,Scheduled,False,True,Regular,True,False,,2426,Navy,22,True,,2115,Central Connecticut,19,True,,Leo D. Mahoney Arena,Mahoney Classic
-2027,401922224,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,171,Columbia,12,True,,2454,North Florida,46,True,,Levien Gymnasium,
-2027,401922241,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,56,Stetson,46,True,,128550,New College,,False,,Insight Credit Union Arena at Edmunds Center,
-2027,401924779,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2415,Morgan State,16,True,,2363,Manhattan,13,True,,Hill Field House,
-2027,401925710,2026-11-28,1:00 PM,Scheduled,False,True,Regular,False,False,,2737,Winthrop,6,True,,126954,Clinton,,False,,Winthrop Coliseum,
+2027,401918961,2026-11-28,11:00 AM,Final,True,True,Regular,False,False,2,152,NC State,2,True,96,2210,Elon,10,True,72,Lenovo Center,
+2027,401920849,2026-11-28,11:00 AM,Final,True,True,Regular,True,False,2,163,Princeton,12,True,77,2900,St. Thomas,49,True,76,Trask Coliseum,Seahawk Classic
+2027,401920890,2026-11-28,11:00 AM,In Progress,False,True,Regular,False,False,,2550,Seton Hall,4,True,,2561,Siena,13,True,,Prudential Center,
+2027,401911395,2026-11-28,12:00 PM,Halftime,False,True,Regular,False,False,,2241,Gardner-Webb,6,True,,2428,North Carolina Central,16,True,,Paul Porter Arena,
+2027,401920310,2026-11-28,12:00 PM,Halftime,False,True,Regular,False,False,,59,Georgia Tech,2,True,,2016,Alcorn State,26,True,,McCamish Pavilion,
+2027,401920775,2026-11-28,12:00 PM,In Progress,False,True,Regular,True,False,,2142,Colgate,22,True,,261,Vermont,1,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
+2027,401921414,2026-11-28,12:00 PM,In Progress,False,True,Regular,True,False,,2515,Radford,6,True,,2261,Hampton,10,True,,Bender Arena,Capital Thanksgiving Classic
+2027,401926212,2026-11-28,12:00 PM,In Progress,False,True,Regular,False,False,,2870,Purdue Fort Wayne,45,True,,2747,Wofford,24,True,,Memorial Coliseum (IN),
+2027,401927379,2026-11-28,12:00 PM,In Progress,False,True,Regular,False,False,,282,Indiana State,18,True,,130262,IU Columbus,,False,,Hulman Center,
+2027,401927389,2026-11-28,12:00 PM,In Progress,False,True,Regular,False,False,,2460,Northern Iowa,18,True,,2523,Robert Morris,45,True,,McLeod Center,
+2027,401926757,2026-11-28,12:30 PM,In Progress,False,True,Regular,True,False,,2492,Pepperdine,29,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
+2027,401911031,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,88,Southern Indiana,20,True,,2050,Ball State,14,True,,Liberty Arena (IN),
+2027,401911202,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,108,Harvard,12,True,,2230,Fordham,3,True,,Lavietes Pavilion,
+2027,401917920,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2110,Central Arkansas,30,True,,3238,Southwestern Christian U,,False,,Farris Center,
+2027,401919736,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,71,Bradley,18,True,,2130,Chicago State,19,True,,Carver Arena,
+2027,401919787,2026-11-28,1:00 PM,In Progress,False,True,Regular,True,False,,315,Niagara,13,True,,2330,Le Moyne,19,True,,Kirby Sports Center,Lafayette Classic
+2027,401920077,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2244,George Mason,3,True,,2368,Marist,13,True,,EagleBank Arena,
+2027,401920350,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2506,Presbyterian,6,True,,16,Sacramento State,9,True,,Templeton Center,
+2027,401920415,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2272,High Point,6,True,,2643,The Citadel,24,True,,Qubein Center,
+2027,401920728,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2294,Iowa,7,True,,2504,Prairie View A&M,26,True,,Carver-Hawkeye Arena,
+2027,401920859,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,276,Marshall,27,True,,2837,East Texas A&M,25,True,,Cam Henderson Center,
+2027,401920977,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,236,Chattanooga,24,True,,2653,Troy,27,True,,McKenzie Arena,
+2027,401921031,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2427,UNC Asheville,6,True,,290,Georgia Southern,27,True,,Kimmel Arena,
+2027,401921158,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2448,North Carolina A&T,10,True,,2169,Delaware State,16,True,,Ellis Corbett Sports Center,
+2027,401921245,2026-11-28,1:00 PM,In Progress,False,True,Regular,True,False,,2426,Navy,22,True,,2115,Central Connecticut,19,True,,Leo D. Mahoney Arena,Mahoney Classic
+2027,401922224,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,171,Columbia,12,True,,2454,North Florida,46,True,,Levien Gymnasium,
+2027,401922241,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,56,Stetson,46,True,,128550,New College,,False,,Insight Credit Union Arena at Edmunds Center,
+2027,401924779,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2415,Morgan State,16,True,,2363,Manhattan,13,True,,Hill Field House,
+2027,401925710,2026-11-28,1:00 PM,In Progress,False,True,Regular,False,False,,2737,Winthrop,6,True,,126954,Clinton,,False,,Winthrop Coliseum,
 2027,401911312,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,2005,Air Force,44,True,,225,Brown,12,True,,Clune Arena,
 2027,401920917,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,2197,Eastern Illinois,20,True,,2459,Northern Illinois,45,True,,Groniger Arena,
 2027,401921009,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,140,Kansas City,49,True,,2546,Southeast Missouri State,20,True,,Swinney Center,
