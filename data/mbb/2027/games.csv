@@ -1507,8 +1507,8 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401919033,2026-11-27,8:00 PM,Final,True,True,Regular,False,False,3,96,Kentucky,23,True,71,2724,Wichita State,62,True,73,Rupp Arena,
 2027,401920534,2026-11-27,8:00 PM,Final,True,True,Regular,True,False,2,97,Louisville,2,True,84,2633,Tennessee,23,True,64,Michelob ULTRA Arena,Players Era 16 - Bracket Final
 2027,401926783,2026-11-27,9:30 PM,Final,True,True,Regular,True,False,2,55,Jacksonville State,11,True,69,2437,Omaha,49,True,78,Resorts World Event Center,Resorts World Classic
-2027,401918961,2026-11-28,11:00 AM,Scheduled,False,True,Regular,False,False,,152,NC State,2,True,,2210,Elon,10,True,,Lenovo Center,
-2027,401920849,2026-11-28,11:00 AM,Scheduled,False,True,Regular,True,False,,2900,St. Thomas,49,True,,163,Princeton,12,True,,Trask Coliseum,Seahawk Classic
+2027,401918961,2026-11-28,11:00 AM,In Progress,False,True,Regular,False,False,,152,NC State,2,True,,2210,Elon,10,True,,Lenovo Center,
+2027,401920849,2026-11-28,11:00 AM,Scheduled,False,True,Regular,True,False,,163,Princeton,12,True,,2900,St. Thomas,49,True,,Trask Coliseum,Seahawk Classic
 2027,401920890,2026-11-28,11:00 AM,Scheduled,False,True,Regular,False,False,,2550,Seton Hall,4,True,,2561,Siena,13,True,,Prudential Center,
 2027,401911395,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,2241,Gardner-Webb,6,True,,2428,North Carolina Central,16,True,,Paul Porter Arena,
 2027,401920310,2026-11-28,12:00 PM,Scheduled,False,True,Regular,False,False,,59,Georgia Tech,2,True,,2016,Alcorn State,26,True,,McCamish Pavilion,
