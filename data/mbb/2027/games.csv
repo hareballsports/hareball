@@ -1476,24 +1476,24 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401920774,2026-11-27,2:30 PM,Final,True,True,Regular,False,False,2,2275,Hofstra,10,True,49,2142,Colgate,22,True,75,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401921417,2026-11-27,2:30 PM,Final,True,True,Regular,True,False,4,2083,Bucknell,22,True,86,2325,La Salle,3,True,89,The Palestra,Cathedral Classic
 2027,401911212,2026-11-27,3:00 PM,Final,True,True,Regular,False,False,2,45,George Washington,3,True,91,2378,UMBC,1,True,51,Charles E. Smith Center,
-2027,401912213,2026-11-27,3:00 PM,In Progress,False,True,Regular,False,False,,44,American University,22,True,,2515,Radford,6,True,,Bender Arena,Capital Thanksgiving Classic
+2027,401912213,2026-11-27,3:00 PM,Final,True,True,Regular,False,False,2,44,American University,22,True,64,2515,Radford,6,True,62,Bender Arena,Capital Thanksgiving Classic
 2027,401921818,2026-11-27,3:00 PM,Final,True,True,Regular,False,False,2,142,Missouri,23,True,97,2029,Arkansas-Pine Bluff,26,True,61,Mizzou Arena,
-2027,401924845,2026-11-27,3:30 PM,Halftime,False,True,Regular,False,False,,322,Lafayette,22,True,,315,Niagara,13,True,,Kirby Sports Center,Lafayette Classic
-2027,401929283,2026-11-27,3:30 PM,In Progress,False,True,Regular,True,False,,103,Boston College,2,True,,2132,Cincinnati,8,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
-2027,401909789,2026-11-27,4:00 PM,Halftime,False,True,Regular,False,False,,2305,Kansas,8,True,,222,Villanova,4,True,,Allen Fieldhouse,
-2027,401920382,2026-11-27,4:00 PM,In Progress,False,True,Regular,False,False,,259,Virginia Tech,2,True,,295,Old Dominion,27,True,,Cassell Coliseum,
+2027,401924845,2026-11-27,3:30 PM,Final,True,True,Regular,False,False,2,322,Lafayette,22,True,82,315,Niagara,13,True,54,Kirby Sports Center,Lafayette Classic
+2027,401929283,2026-11-27,3:30 PM,Final,True,True,Regular,True,False,2,103,Boston College,2,True,59,2132,Cincinnati,8,True,70,State Farm Field House,ESPN Events Invitational - Magic Bracket
+2027,401909789,2026-11-27,4:00 PM,In Progress,False,True,Regular,False,False,,2305,Kansas,8,True,,222,Villanova,4,True,,Allen Fieldhouse,
+2027,401920382,2026-11-27,4:00 PM,Final,True,True,Regular,False,False,2,259,Virginia Tech,2,True,70,295,Old Dominion,27,True,61,Cassell Coliseum,
 2027,401920810,2026-11-27,4:00 PM,In Progress,False,True,Regular,True,False,,245,Texas A&M,23,True,,269,Marquette,4,True,,Imperial Arena,Battle 4 Atlantis - Signature Series
 2027,401921718,2026-11-27,4:00 PM,In Progress,False,True,Regular,True,False,,2608,Saint Mary's,29,True,,251,Texas,23,True,,Jenny Craig Pavilion,Rady Children's Invitational - Championship
 2027,401927366,2026-11-27,4:30 PM,In Progress,False,True,Regular,True,False,,68,Boise State,21,True,,2181,Drake,18,True,,Mountain America Center,Snake River Invitational
 2027,401920541,2026-11-27,4:41 PM,In Progress,False,True,Regular,True,False,,2306,Kansas State,8,True,,130,Michigan,7,True,,T-Mobile Arena,Players Era 16 - Seventh Place Game
-2027,401911030,2026-11-27,5:00 PM,In Progress,False,True,Regular,False,False,,84,Indiana,7,True,,189,Bowling Green,14,True,,Simon Skjodt Assembly Hall,
-2027,401913531,2026-11-27,5:00 PM,In Progress,False,True,Regular,False,False,,356,Illinois,7,True,,98,Western Kentucky,11,True,,State Farm Center,
-2027,401921185,2026-11-27,5:00 PM,Scheduled,False,True,Regular,False,False,,219,Pennsylvania,12,True,,119,Towson,10,True,,The Palestra,Cathedral Classic
-2027,401933055,2026-11-27,5:00 PM,In Progress,False,True,Regular,False,False,,2908,South Carolina Upstate,6,True,,2576,Southern Wesleyan,,False,,G.B. Hodge Center,
+2027,401911030,2026-11-27,5:00 PM,Halftime,False,True,Regular,False,False,,84,Indiana,7,True,,189,Bowling Green,14,True,,Simon Skjodt Assembly Hall,
+2027,401913531,2026-11-27,5:00 PM,Halftime,False,True,Regular,False,False,,356,Illinois,7,True,,98,Western Kentucky,11,True,,State Farm Center,
+2027,401933055,2026-11-27,5:00 PM,Halftime,False,True,Regular,False,False,,2908,South Carolina Upstate,6,True,,2576,Southern Wesleyan,,False,,G.B. Hodge Center,
+2027,401921185,2026-11-27,5:40 PM,In Progress,False,True,Regular,False,False,,219,Pennsylvania,12,True,,119,Towson,10,True,,The Palestra,Cathedral Classic
 2027,401911380,2026-11-27,6:00 PM,Scheduled,False,True,Regular,False,False,,2193,East Tennessee State,24,True,,2127,Charleston Southern,6,True,,Freedom Hall (TN),ETSU MTE
 2027,401912711,2026-11-27,6:00 PM,Scheduled,False,True,Regular,True,False,,153,North Carolina,2,True,,277,West Virginia,8,True,,Spectrum Center,Dick Vitale Invitational pres. by Belk
-2027,401918980,2026-11-27,6:00 PM,Scheduled,False,True,Regular,False,False,,151,East Carolina,62,True,,286,North Carolina Wesleyan,,False,,Williams Arena at Minges Coliseum,Flex Game: 11/27 or 11/28
-2027,401926756,2026-11-27,6:00 PM,Scheduled,False,True,Regular,True,False,,2540,UC Santa Barbara,9,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
+2027,401918980,2026-11-27,6:00 PM,Scheduled,False,True,Regular,False,False,,151,East Carolina,62,True,,286,North Carolina Wesleyan,,False,,Williams Arena at Minges Coliseum,
+2027,401926756,2026-11-27,6:00 PM,In Progress,False,True,Regular,True,False,,2540,UC Santa Barbara,9,True,,2329,Lehigh,22,True,,Gilbert Arena,Gratitude Thanksgiving Classic
 2027,401929284,2026-11-27,6:00 PM,Scheduled,False,True,Regular,True,False,,61,Georgia,23,True,,2116,UCF,8,True,,State Farm Field House,ESPN Events Invitational - Magic Bracket
 2027,401925703,2026-11-27,6:30 PM,Scheduled,False,True,Regular,False,False,,248,Houston,8,True,,2473,Oakland,45,True,,Fertitta Center,
 2027,401929289,2026-11-27,6:30 PM,Scheduled,False,True,Regular,True,False,,344,Mississippi State,23,True,,213,Penn State,7,True,,Imperial Arena,Battle 4 Atlantis - Championship Bracket
