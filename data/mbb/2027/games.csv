@@ -1602,11 +1602,11 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401924898,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,167,New Mexico,44,True,,328,Utah State,21,True,,The Pit,
 2027,401925866,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,202,Tulsa,62,True,,85,IU Indianapolis,45,True,,Reynolds Center,
 2027,401926815,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,232,Charleston,10,True,,47,Howard,16,True,,TD Arena,
-2027,401926869,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,204,Oregon State,21,True,,270,Milwaukee,45,True,,Gill Coliseum,
 2027,401928808,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,2739,Green Bay,45,True,,155,North Dakota,49,True,,Resch Center,
 2027,401929389,2026-11-29,1:00 PM,Scheduled,False,True,Regular,False,False,,2382,Mercer,24,True,,134948,Georgia Southern-East Georgia,,False,,Hawkins Arena,
 2027,401919788,2026-11-29,1:30 PM,Scheduled,False,True,Regular,False,False,,322,Lafayette,22,True,,2330,Le Moyne,19,True,,Kirby Sports Center,Lafayette Classic
 2027,401924823,2026-11-29,1:30 PM,Scheduled,False,True,Regular,False,False,,2275,Hofstra,10,True,,261,Vermont,1,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
+2027,401926869,2026-11-29,1:30 PM,Scheduled,False,True,Regular,False,False,,204,Oregon State,21,True,,270,Milwaukee,45,True,,Gill Coliseum,
 2027,401919043,2026-11-29,2:00 PM,Scheduled,False,True,Regular,False,False,,197,Oklahoma State,8,True,,2634,Tennessee State,20,True,,Gallagher-Iba Arena,
 2027,401920722,2026-11-29,2:00 PM,Scheduled,False,True,Regular,False,False,,2751,Wyoming,44,True,,331,Eastern Washington,5,True,,Arena-Auditorium,
 2027,401922049,2026-11-29,2:00 PM,Scheduled,False,True,Regular,False,False,,2344,Longwood,6,True,,2379,Maryland Eastern Shore,16,True,,Joan Perry Brock Center,
@@ -2296,7 +2296,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401921270,2026-12-13,4:00 PM,Scheduled,False,True,Regular,False,False,,2352,Loyola Maryland,22,True,,2115,Central Connecticut,19,True,,Reitz Arena,
 2027,401927376,2026-12-13,4:00 PM,Scheduled,False,True,Regular,False,False,,2287,Illinois State,18,True,,2449,North Dakota State,49,True,,CEFCU Arena,
 2027,401929360,2026-12-13,4:00 PM,Scheduled,False,True,Regular,False,False,,8,Arkansas,23,True,,250,UT Arlington,30,True,,Bud Walton Arena,
-2027,401921421,2026-12-13,4:30 PM,Scheduled,False,True,Regular,True,False,,326,Texas State,21,True,,249,North Texas,62,True,,Ariat Arena,Coast to Coast Challenge
+2027,401921421,2026-12-13,4:30 PM,Scheduled,False,True,Regular,True,False,,249,North Texas,62,True,,326,Texas State,21,True,,Ariat Arena,Coast to Coast Challenge
 2027,401920729,2026-12-13,5:00 PM,Scheduled,False,True,Regular,False,False,,2294,Iowa,7,True,,2710,Western Illinois,20,True,,Carver-Hawkeye Arena,
 2027,401917571,2026-12-13,6:00 PM,Scheduled,False,True,Regular,True,False,,2377,McNeese,25,True,,2351,Loyola Marymount,29,True,,Lee's Family Forum,Jack Jones Classic
 2027,401921890,2026-12-13,7:00 PM,Scheduled,False,True,Regular,False,True,,264,Washington,7,True,,26,UCLA,7,True,,Alaska Airlines Arena,
@@ -2320,7 +2320,6 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401928349,2026-12-15,11:00 AM,Scheduled,False,True,Regular,False,False,,2506,Presbyterian,6,True,,2019,Allen,,False,,Templeton Center,
 2027,401929361,2026-12-15,11:00 AM,Scheduled,False,True,Regular,False,False,,250,UT Arlington,30,True,,2326,LeTourneau,,False,,College Park Center,
 2027,401928400,2026-12-15,11:00 PM,Scheduled,False,True,Regular,False,False,,2029,Arkansas-Pine Bluff,26,True,,3120,Ecclesia,,False,,H.O. Clemmons Arena,
-2027,401929622,2026-12-15,12:00 PM,Scheduled,False,True,Regular,False,False,,2636,UTSA,62,True,,3158,Our Lady of the Lake,,False,,UTSA Convocation Center,
 2027,401926121,2026-12-15,3:00 PM,Scheduled,False,True,Regular,False,False,,2504,Prairie View A&M,26,True,,2637,Texas College,,False,,William J. Nicks Building,
 2027,401920968,2026-12-15,4:00 PM,Scheduled,False,True,Regular,False,False,,2413,Morehead State,20,True,,2453,North Alabama,30,True,,Ellis T. Johnson Arena,
 2027,401924885,2026-12-15,4:00 PM,Scheduled,False,True,Regular,False,False,,2405,Monmouth,10,True,,2561,Siena,13,True,,Hackensack Meridian Athletic Center,
@@ -2345,6 +2344,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401906798,2026-12-15,6:30 PM,Scheduled,False,True,Regular,False,False,,344,Mississippi State,23,True,,2400,Mississippi Valley State,26,True,,Humphrey Coliseum,
 2027,401917943,2026-12-15,6:30 PM,Scheduled,False,True,Regular,False,False,,2110,Central Arkansas,30,True,,2837,East Texas A&M,25,True,,Farris Center,
 2027,401921137,2026-12-15,6:30 PM,Scheduled,False,True,Regular,False,False,,2641,Texas Tech,8,True,,2916,Incarnate Word,25,True,,United Supermarkets Arena,
+2027,401929622,2026-12-15,6:30 PM,Scheduled,False,True,Regular,False,False,,2636,UTSA,62,True,,3158,Our Lady of the Lake,,False,,UTSA Convocation Center,
 2027,401909499,2026-12-15,7:00 PM,Scheduled,False,True,Regular,False,False,,156,Creighton,4,True,,116,Mount St. Mary's,13,True,,CHI Health Center Omaha,
 2027,401911258,2026-12-15,7:00 PM,Scheduled,False,True,Regular,False,False,,139,Saint Louis,3,True,,50,Florida A&M,26,True,,Chaifetz Arena,
 2027,401916300,2026-12-15,7:00 PM,Scheduled,False,True,Regular,False,False,,120,Maryland,7,True,,2415,Morgan State,16,True,,XFINITY Center,
