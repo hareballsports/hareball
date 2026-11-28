@@ -1545,7 +1545,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401926796,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,350,UNC Wilmington,10,True,,2335,Liberty,11,True,,Trask Coliseum,Live Oak Bank Holiday Classic
 2027,401928848,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,2674,Valparaiso,18,True,,2649,Toledo,14,True,,Athletics-Recreation Center,
 2027,401929048,2026-11-28,2:00 PM,Scheduled,False,True,Regular,False,False,,324,Coastal Carolina,27,True,,2710,Western Illinois,20,True,,The HTC Center,
-2027,401911032,2026-11-28,2:30 PM,Scheduled,False,True,Regular,True,False,,119,Towson,10,True,,2084,Buffalo,14,True,,The Palestra,Cathedral Classic
+2027,401911032,2026-11-28,2:30 PM,Scheduled,False,True,Regular,True,False,,2084,Buffalo,14,True,,119,Towson,10,True,,The Palestra,Cathedral Classic
 2027,401924811,2026-11-28,2:30 PM,Scheduled,False,True,Regular,False,False,,2275,Hofstra,10,True,,2771,Merrimack,13,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401928797,2026-11-28,2:30 PM,Scheduled,False,True,Regular,False,False,,2534,Sam Houston,11,True,,2491,Paul Quinn,,False,,Bernard G. Johnson Coliseum,
 2027,401929172,2026-11-28,2:30 PM,Scheduled,False,True,Regular,True,False,,68,Boise State,21,True,,249,North Texas,62,True,,Mountain America Center,Snake River Invitational
@@ -1582,7 +1582,7 @@ season,game_id,date_local,time_local,status,completed,on_schedule,season_type,ne
 2027,401917968,2026-11-28,7:00 PM,Scheduled,False,True,Regular,False,False,,2000,Abilene Christian,30,True,,2163,Dallas,,False,,Moody Coliseum (Abilene),
 2027,401919851,2026-11-28,7:00 PM,Scheduled,False,True,Regular,False,False,,87,Notre Dame,2,True,,284,Stonehill,19,True,,Purcell Pavilion,
 2027,401917551,2026-11-28,9:00 PM,Scheduled,False,True,Regular,False,False,,28,UC San Diego,9,True,,2351,Loyola Marymount,29,True,,LionTree Arena,
-2027,401920536,2026-11-28,9:30 PM,Scheduled,False,True,Regular,True,False,,97,Louisville,2,True,,156,Creighton,4,True,,Michelob ULTRA Arena,Players Era 16 - Championship
+2027,401920536,2026-11-28,9:30 PM,Scheduled,False,True,Regular,True,False,,156,Creighton,4,True,,97,Louisville,2,True,,Michelob ULTRA Arena,Players Era 16 - Championship
 2027,401920776,2026-11-29,11:00 AM,Scheduled,False,True,Regular,True,False,,2142,Colgate,22,True,,2771,Merrimack,13,True,,David S. Mack Sports and Exhibition Complex,The Island Invitational
 2027,401923306,2026-11-29,11:00 AM,Scheduled,False,True,Regular,True,False,,311,Maine,1,True,,315,Niagara,13,True,,Kirby Sports Center,Lafayette Classic
 2027,401911189,2026-11-29,12:00 PM,Scheduled,False,True,Regular,True,False,,2168,Dayton,3,True,,235,Memphis,62,True,,Nationwide Arena,A10/American Showcase
